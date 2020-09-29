@@ -18,8 +18,15 @@
             "type": "integer"
         },
         "side_code": {
-            "minLength": 1,
-            "type": "string"
+            "oneOf": [
+                {
+                    "minLength": 1,
+                    "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ]
         }
     },
     "required": [

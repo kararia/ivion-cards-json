@@ -5,7 +5,7 @@
         "color_xterm": 16,
         "is_mini": false,
         "name": "Archmage",
-        "side_code": "all"
+        "side_code": "corp"
     },
     {
         "code": "enchantress",
@@ -13,7 +13,7 @@
         "color_xterm": 202,
         "is_mini": false,
         "name": "Enchantress",
-        "side_code": "all"
+        "side_code": "corp"
     },
     {
         "code": "errant",
@@ -21,7 +21,7 @@
         "color_xterm": 62,
         "is_mini": false,
         "name": "Errant",
-        "side_code": "all"
+        "side_code": "corp"
     },
     {
         "code": "illusionist",
@@ -29,7 +29,7 @@
         "color_xterm": 161,
         "is_mini": false,
         "name": "Illusionist",
-        "side_code": "all"
+        "side_code": "corp"
     },
     {
         "code": "invoker",
@@ -37,7 +37,7 @@
         "color_xterm": 92,
         "is_mini": false,
         "name": "Invoker",
-        "side_code": "all"
+        "side_code": "corp"
     },
     {
         "code": "knight",
@@ -45,7 +45,7 @@
         "color_xterm": 161,
         "is_mini": false,
         "name": "Knight",
-        "side_code": "all"
+        "side_code": "corp"
     },
     {
         "code": "neutral",
@@ -53,7 +53,7 @@
         "color_xterm": 102,
         "is_mini": false,
         "name": "Neutral",
-        "side_code": "all"
+        "side_code": "corp"
     },
     {
         "code": "saint",
@@ -61,7 +61,7 @@
         "color_xterm": 208,
         "is_mini": false,
         "name": "Saint",
-        "side_code": "all"
+        "side_code": "corp"
     },
     {
         "code": "sorcerer",
@@ -69,7 +69,7 @@
         "color_xterm": 77,
         "is_mini": false,
         "name": "Sorcerer",
-        "side_code": "all"
+        "side_code": "corp"
     },
     {
         "code": "wizard",
@@ -77,6 +77,6 @@
         "color_xterm": 22,
         "is_mini": false,
         "name": "Wizard",
-        "side_code": "all"
+        "side_code": "corp"
     }
 ]

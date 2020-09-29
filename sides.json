@@ -1,14 +1,10 @@
 [
     {
-        "code": "class",
-        "name": "Class"
+        "code": "corp",
+        "name": "Any"
     },
     {
-        "code": "spec",
-        "name": "Specialization"
-    },
-    {
-        "code": "all",
-        "name": "All"
+        "code": "runner",
+        "name": "Runner"
     }
 ]

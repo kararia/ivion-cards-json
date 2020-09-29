@@ -4,48 +4,27 @@
         "is_subtype": false,
         "name": "Skill",
         "position": 1,
-        "side_code": "all"
+        "side_code": "corp"
     },
     {
         "code": "feat",
         "is_subtype": false,
         "name": "Feat",
         "position": 2,
-        "side_code": "all"
+        "side_code": "corp"
     },
     {
         "code": "relic",
         "is_subtype": false,
         "name": "Relic",
         "position": 3,
-        "side_code": "all"
+        "side_code": "corp"
     },
     {
-        "code": "ultimate",
+        "code": "identity",
         "is_subtype": false,
         "name": "Ultimate",
         "position": 4,
-        "side_code": "all"
-    },
-    {
-        "code": "ability",
-        "is_subtype": true,
-        "name": "Ability",
-        "position": 5,
-        "side_code": "all"
-    },
-    {
-        "code": "attack",
-        "is_subtype": true,
-        "name": "Attack",
-        "position": 6,
-        "side_code": "all"
-    },
-    {
-        "code": "passive",
-        "is_subtype": true,
-        "name": "Passive",
-        "position": 7,
-        "side_code": "all"
+        "side_code": "corp"
     }
 ]
