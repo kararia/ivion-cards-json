@@ -1,7 +1,7 @@
-Netrunner cards JSON data [![Build status](https://travis-ci.org/Alsciende/netrunner-cards-json.svg?branch=master)](https://travis-ci.org/Alsciende/netrunner-cards-json)
+Ivion cards JSON data [![Build status](https://travis-ci.org/kararia/ivion-cards-json.svg?branch=master)](https://travis-ci.org/kararia/ivion-cards-json)
 =========
 
-The goal of this repository is to store [NetrunnerDB](http://netrunnerdb.com) card data in a format that can be easily updated by multiple people and their changes reviewed.
+The goal of this repository is to store [IvionDB](http://playivion.com) card data in a format that can be easily updated by multiple people and their changes reviewed.
 
 ## Validating and formatting JSON
 
