@@ -73,6 +73,17 @@
             "pattern": "^[0-9]{5}$",
             "type": "string"
         },
+        "deck_limit": {
+            "oneOf": [
+                {
+                    "minimum": 0,
+                    "type": "integer"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
         "disarm": {
             "oneOf": [
                 {
@@ -203,10 +214,6 @@
                     "type": "null"
                 }
             ]
-        },
-        "subtype": {
-            "minLength": 1,
-            "type": "string"
         },
         "text": {
             "minLength": 1,

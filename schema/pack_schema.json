@@ -39,6 +39,17 @@
             "minimum": 1,
             "type": "integer"
         },
+        "quantity": {
+            "oneOf": [
+                {
+                    "minimum": 1,
+                    "type": "integer"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
         "size": {
             "oneOf": [
                 {
