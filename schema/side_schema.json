@@ -1,5 +1,5 @@
 {
-    "$id": "https://github.com/Alsciende/netrunner-cards-json/blob/master/schema/side_schema.json",
+    "$id": "https://github.com/kararia/ivion-cards-json/blob/master/schema/side_schema.json",
     "$schema": "http://json-schema.org/draft-04/schema#",
     "additionalProperties": false,
     "properties": {

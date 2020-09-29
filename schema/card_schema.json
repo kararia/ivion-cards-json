@@ -1,123 +1,109 @@
 {
-    "$id": "https://github.com/Alsciende/netrunner-cards-json/blob/master/schema/card_schema.json",
+    "$id": "https://github.com/kararia/ivion-cards-json/blob/master/schema/card_schema.json",
     "$schema": "http://json-schema.org/draft-04/schema#",
     "additionalProperties": false,
     "oneOf": [
         {
             "properties": {
                 "type_code": {
-                    "const": "agenda"
+                    "const": "skill"
                 }
             },
             "required": [
-                "advancement_cost",
-                "agenda_points"
+                "action_cost",
+                "power_cost",
+                "subtype"
             ]
         },
         {
             "properties": {
                 "type_code": {
-                    "enum": [
-                        "asset",
-                        "upgrade"
-                    ]
+                    "const": "feat"
                 }
             },
             "required": [
-                "cost",
-                "trash_cost"
+                "feat"
             ]
         },
         {
             "properties": {
                 "type_code": {
-                    "enum": [
-                        "ice"
-                    ]
+                    "const": "relic"
                 }
             },
             "required": [
-                "cost",
-                "strength"
+                "relic"
             ]
         },
         {
             "properties": {
                 "type_code": {
-                    "enum": [
-                        "event",
-                        "hardware",
-                        "operation",
-                        "program",
-                        "resource"
-                    ]
+                    "const": "relic-skill"
                 }
             },
             "required": [
-                "cost"
+                "feat",
+                "action_cost",
+                "power_cost"
             ]
         },
         {
             "properties": {
                 "type_code": {
-                    "const": "identity"
+                    "const": "ultimate"
                 }
             },
             "required": [
-                "influence_limit",
-                "minimum_deck_size"
+                "health_points"
             ]
         }
     ],
     "properties": {
-        "advancement_cost": {
-            "minimum": 0,
-            "type": "integer"
-        },
-        "agenda_points": {
-            "minimum": 0,
-            "type": "integer"
-        },
-        "base_link": {
-            "minimum": 0,
-            "type": "integer"
+        "action_cost": {
+            "oneOf": [
+                {
+                    "type": "integer"
+                },
+                {
+                    "type": "null"
+                }
+            ]
         },
         "code": {
             "pattern": "^[0-9]{5}$",
             "type": "string"
         },
-        "cost": {
+        "disarm": {
             "oneOf": [
                 {
-                    "minimum": 0,
-                    "type": "integer"
+                    "default": false,
+                    "type": "boolean"
                 },
                 {
                     "type": "null"
                 }
             ]
-        },
-        "deck_limit": {
-            "minimum": 1,
-            "type": "integer"
         },
         "faction_code": {
             "minLength": 1,
             "type": "string"
         },
-        "faction_cost": {
-            "minimum": 0,
-            "type": "integer"
+        "feat": {
+            "oneOf": [
+                {
+                    "default": false,
+                    "type": "boolean"
+                },
+                {
+                    "type": "null"
+                }
+            ]
         },
         "flavor": {
             "minLength": 1,
             "type": "string"
         },
-        "illustrator": {
-            "pattern": ".+",
-            "type": "string"
-        },
-        "influence_limit": {
+        "health_points": {
             "oneOf": [
                 {
                     "minimum": 0,
@@ -128,17 +114,24 @@
                 }
             ]
         },
+        "heroic": {
+            "oneOf": [
+                {
+                    "default": false,
+                    "type": "boolean"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "illustrator": {
+            "pattern": ".+",
+            "type": "string"
+        },
         "keywords": {
             "minLength": 1,
             "type": "string"
-        },
-        "memory_cost": {
-            "minimum": 0,
-            "type": "integer"
-        },
-        "minimum_deck_size": {
-            "minimum": 0,
-            "type": "integer"
         },
         "pack_code": {
             "maxLength": 5,
@@ -149,15 +142,7 @@
             "minimum": 1,
             "type": "integer"
         },
-        "quantity": {
-            "minimum": 1,
-            "type": "integer"
-        },
-        "side_code": {
-            "minLength": 1,
-            "type": "string"
-        },
-        "strength": {
+        "power_cost": {
             "oneOf": [
                 {
                     "type": "integer"
@@ -167,6 +152,62 @@
                 }
             ]
         },
+        "quantity": {
+            "minimum": 1,
+            "type": "integer"
+        },
+        "range": {
+            "oneOf": [
+                {
+                    "minimum": 0,
+                    "type": "integer"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "relic": {
+            "oneOf": [
+                {
+                    "default": false,
+                    "type": "boolean"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "side_code": {
+            "minLength": 1,
+            "type": "string"
+        },
+        "silence": {
+            "oneOf": [
+                {
+                    "default": false,
+                    "type": "boolean"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "slow": {
+            "oneOf": [
+                {
+                    "default": false,
+                    "type": "boolean"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "subtype": {
+            "minLength": 1,
+            "type": "string"
+        },
         "text": {
             "minLength": 1,
             "type": "string"
@@ -175,29 +216,18 @@
             "minLength": 1,
             "type": "string"
         },
-        "trash_cost": {
-            "minimum": 0,
-            "type": "integer"
-        },
         "type_code": {
             "minLength": 1,
             "type": "string"
-        },
-        "uniqueness": {
-            "type": "boolean"
         }
     },
     "required": [
         "code",
         "faction_code",
-        "deck_limit",
         "pack_code",
         "position",
-        "quantity",
-        "side_code",
         "title",
-        "type_code",
-        "uniqueness"
+        "type_code"
     ],
     "type": "object"
 }

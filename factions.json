@@ -1,98 +1,82 @@
 [
     {
-        "code": "adam",
+        "code": "archmage",
         "color": "000000",
         "color_xterm": 16,
-        "is_mini": true,
-        "name": "Adam",
-        "side_code": "runner"
+        "is_mini": false,
+        "name": "Archmage",
+        "side_code": "all"
     },
     {
-        "code": "anarch",
+        "code": "enchantress",
         "color": "FF4500",
         "color_xterm": 202,
         "is_mini": false,
-        "name": "Anarch",
-        "side_code": "runner"
+        "name": "Enchantress",
+        "side_code": "all"
     },
     {
-        "code": "apex",
-        "color": "000000",
-        "color_xterm": 16,
-        "is_mini": true,
-        "name": "Apex",
-        "side_code": "runner"
-    },
-    {
-        "code": "criminal",
+        "code": "errant",
         "color": "4169E1",
         "color_xterm": 62,
         "is_mini": false,
-        "name": "Criminal",
-        "side_code": "runner"
+        "name": "Errant",
+        "side_code": "all"
     },
     {
-        "code": "haas-bioroid",
+        "code": "illusionist",
+        "color": "DC143C",
+        "color_xterm": 161,
+        "is_mini": false,
+        "name": "Illusionist",
+        "side_code": "all"
+    },
+    {
+        "code": "invoker",
         "color": "8A2BE2",
         "color_xterm": 92,
         "is_mini": false,
-        "name": "Haas-Bioroid",
-        "side_code": "corp"
+        "name": "Invoker",
+        "side_code": "all"
     },
     {
-        "code": "jinteki",
+        "code": "knight",
         "color": "DC143C",
         "color_xterm": 161,
         "is_mini": false,
         "name": "Jinteki",
-        "side_code": "corp"
+        "side_code": "all"
     },
     {
-        "code": "nbn",
+        "code": "neutral",
+        "color": "808080",
+        "color_xterm": 102,
+        "is_mini": false,
+        "name": "Neutral",
+        "side_code": "all"
+    },
+    {
+        "code": "saint",
         "color": "FF8C00",
         "color_xterm": 208,
         "is_mini": false,
-        "name": "NBN",
-        "side_code": "corp"
+        "name": "Saint",
+        "side_code": "all"
     },
     {
-        "code": "neutral-corp",
-        "color": "808080",
-        "color_xterm": 102,
-        "is_mini": false,
-        "name": "Neutral",
-        "side_code": "corp"
-    },
-    {
-        "code": "neutral-runner",
-        "color": "808080",
-        "color_xterm": 102,
-        "is_mini": false,
-        "name": "Neutral",
-        "side_code": "runner"
-    },
-    {
-        "code": "shaper",
+        "code": "sorcerer",
         "color": "32CD32",
         "color_xterm": 77,
         "is_mini": false,
-        "name": "Shaper",
-        "side_code": "runner"
+        "name": "Sorcerer",
+        "side_code": "all"
     },
     {
-        "code": "sunny-lebeau",
-        "color": "000000",
-        "color_xterm": 16,
-        "is_mini": true,
-        "name": "Sunny Lebeau",
-        "side_code": "runner"
-    },
-    {
-        "code": "weyland-consortium",
+        "code": "wizard",
         "color": "006400",
         "color_xterm": 22,
         "is_mini": false,
-        "name": "Weyland Consortium",
-        "side_code": "corp"
+        "name": "Wizard",
+        "side_code": "all"
     }
 ]
