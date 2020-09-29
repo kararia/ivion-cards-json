@@ -19,8 +19,8 @@
         "slow": null,
         "text": "Silence 3 target Uncontrolled opponent.",
         "title": "Chastise",
-        "uniqueness": false,
-        "type_code": "skill"
+        "type_code": "skill",
+        "uniqueness": false
     },
     {
         "action_cost": 0,
@@ -42,8 +42,8 @@
         "slow": null,
         "text": "Draw a card for each Attack card you've resolved this turn. Become Chivalrous.",
         "title": "Clean thy Blade",
-        "uniqueness": false,
-        "type_code": "skill"
+        "type_code": "skill",
+        "uniqueness": false
     },
     {
         "action_cost": -1,
@@ -65,7 +65,7 @@
         "slow": null,
         "text": "Deal 4 damage to the enemy. Stun them. (They lose a resource of their choice.)",
         "title": "Daring Strike",
-        "uniqueness": false,
-        "type_code": "skill"
+        "type_code": "skill",
+        "uniqueness": false
     }
 ]
