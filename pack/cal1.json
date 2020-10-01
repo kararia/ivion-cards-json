@@ -19,7 +19,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "For the rest of the game, you have no maximum HP. Heal yourself 6 HP and remove all {Control} affecting you.",
+        "text": "For the rest of the game, you have no maximum HP. Heal yourself 6 HP and remove all <strong>Control</strong> affecting you.",
         "title": "Blessed Grail",
         "type_code": "relic",
         "uniqueness": false
@@ -44,7 +44,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "{Attach} to yourself. If you would take damage, instead take 1 less damage. After an opponent resolves an {Attack} card targeting you, deal 1 damage to them.",
+        "text": "<strong>Attach</strong> to yourself. If you would take damage, instead take 1 less damage. After an opponent resolves an <strong>Attack</strong> card targeting you, deal 1 damage to them.",
         "title": "Radiant Mantle",
         "type_code": "relic",
         "uniqueness": false
@@ -69,7 +69,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "You may play a card for {free} [f]. That card gains {Heroic} [h].",
+        "text": "You may play a card for <strong>free</strong> [f]. That card gains <strong>Heroic</strong> [h].",
         "title": "Divine Strength",
         "type_code": "relic",
         "uniqueness": false
@@ -94,7 +94,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "{Attach} to yourself. You can't be {Stunned} or {Exhausted}, nor forced by an enemy to {Travel} or discard cards by any means. While you are {Controlled}, you can't receive {Control}.",
+        "text": "<strong>Attach</strong> to yourself. You can't be <strong>Stunned</strong> or <strong>Exhausted</strong>, nor forced by an enemy to <strong>Travel</strong> or discard cards by any means. While you are <strong>Controlled</strong>, you can't receive <strong>Control</strong>.",
         "title": "Stoic Helm",
         "type_code": "relic",
         "uniqueness": false
@@ -119,7 +119,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "Deal 7 damage to each opponent. {Stun} each opponent, then {Stun} each opponent again. <(Each enemy loses two resources of their choice.)>",
+        "text": "Deal 7 damage to each opponent. <strong>Stun</strong> each opponent, then <strong>Stun</strong> each opponent again. <small><em>(Each enemy loses two resources of their choice.)</small></em>",
         "title": "Symbol of Wrath",
         "type_code": "relic",
         "uniqueness": false
@@ -144,7 +144,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "When you gain {Prismatic Light}, put it into your hand. It can't be discarded. {Counter} target card unless its controller pays 3 {Resources}. Then, become {Chivalrous} [c].",
+        "text": "When you gain <strong>Prismatic Light</strong>, put it into your hand. It can't be discarded. <strong>Counter</strong> target card unless its controller pays 3 <strong>Resources</strong>. Then, become <strong>Chivalrous</strong> [c].",
         "title": "Prismatic Light",
         "type_code": "relic",
         "uniqueness": false
@@ -169,7 +169,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "Gain [p] [p] [p] and [n] [n]. {Pilgrim's Tome} can cause you to exceed your max [p].",
+        "text": "Gain [p] [p] [p] and [n] [n]. <strong>Pilgrim's Tome</strong> can cause you to exceed your max [p].",
         "title": "Pilgrim's Tome",
         "type_code": "relic",
         "uniqueness": false
@@ -194,7 +194,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "{Attach} to yourself. Your {Attack} cards have a {Range} [r] of 1, deal more damage equal to their {Resource} cost, and are {Heroic} [h] <(They ignore control.)>",
+        "text": "<strong>Attach</strong> to yourself. Your <strong>Attack</strong> cards have a <strong>Range</strong> [r] of 1, deal more damage equal to their <strong>Resource</strong> cost, and are <strong>Heroic</strong> [h] <small><em>(They ignore control.)</small></em>",
         "title": "Ashen Blade",
         "type_code": "relic",
         "uniqueness": false
@@ -244,7 +244,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "At the start of your first turn, become {Chivalrous} [c].",
+        "text": "At the start of your first turn, become <strong>Chivalrous</strong> [c].",
         "title": "Oathbearer",
         "type_code": "feat",
         "uniqueness": false
@@ -269,7 +269,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": true,
-        "text": "{Travel} one tile towards another target {Non-Adjacent} character.",
+        "text": "<strong>Travel</strong> one tile towards another target <strong>Non-Adjacent</strong> character.",
         "title": "Press On",
         "type_code": "feat",
         "uniqueness": false
@@ -294,7 +294,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "After you enter {Terrain}, put a token on {Quest}. After you become {Chivalrous} while you were already {Chivalrous}, put two tokens on {Quest}. Once you have six or more tokens on {Quest}, remove six tokens from it and gain a random {Relic}.",
+        "text": "After you enter <strong>Terrain</strong>, put a token on <strong>Quest</strong>. After you become <strong>Chivalrous</strong> while you were already <strong>Chivalrous</strong>, put two tokens on <strong>Quest</strong>. Once you have six or more tokens on <strong>Quest</strong>, remove six tokens from it and gain a random <strong>Relic</strong>.",
         "title": "Quest",
         "type_code": "feat",
         "uniqueness": false
@@ -319,7 +319,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "{Valor} only applies after you have used your {Second Wind}. At the end of your turn, if you are near an enemy, you may draw a card.",
+        "text": "<strong>Valor</strong> only applies after you have used your <strong>Second Wind</strong>. At the end of your turn, if you are near an enemy, you may draw a card.",
         "title": "Valor",
         "type_code": "feat",
         "uniqueness": false
@@ -344,7 +344,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "After you draw your opening hand at the start of the game, shuffle two random {Relics} into your deck. After a {Relic} leaves your deck, gain it.",
+        "text": "After you draw your opening hand at the start of the game, shuffle two random <strong>Relics</strong> into your deck. After a <strong>Relic</strong> leaves your deck, gain it.",
         "title": "Destiny",
         "type_code": "feat",
         "uniqueness": false
@@ -369,7 +369,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": true,
-        "text": "{Travel} one tile towards target tile with {Terrain}.",
+        "text": "<strong>Travel</strong> one tile towards target tile with <strong>Terrain</strong>.",
         "title": "Dreamstep",
         "type_code": "feat",
         "uniqueness": false
@@ -394,7 +394,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Make target tile {Enchanted Terrain} [et].",
+        "text": "Make target tile <strong>Enchanted Terrain</strong> [et].",
         "title": "Enchant",
         "type_code": "feat",
         "uniqueness": false
@@ -419,7 +419,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Remove target {Terrain} token. Then, deal 4 damage to each enemy near that tile.",
+        "text": "Remove target <strong>Terrain</strong> token. Then, deal 4 damage to each enemy near that tile.",
         "title": "Explode",
         "type_code": "feat",
         "uniqueness": false
@@ -444,7 +444,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "After you {Second Wind}, deal 5 damage to each opponent. This can't reduce opponents below 1 HP.",
+        "text": "After you <strong>Second Wind</strong>, deal 5 damage to each opponent. This can't reduce opponents below 1 HP.",
         "title": "Spellwake",
         "type_code": "feat",
         "uniqueness": false
@@ -594,7 +594,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "At the start of your first turn, put three different {Archmage} cards facedown underneath {Spellbook}. Put a random card from underneath {Spellbook} into your hand.",
+        "text": "At the start of your first turn, put three different <strong>Archmage</strong> cards facedown underneath <strong>Spellbook</strong>. Put a random card from underneath <strong>Spellbook</strong> into your hand.",
         "title": "Spellbook",
         "type_code": "feat",
         "uniqueness": false
@@ -619,7 +619,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "The first time you spend [n] to {move} each turn, you may {move} diagonally.",
+        "text": "The first time you spend [n] to <strong>move</strong> each turn, you may <strong>move</strong> diagonally.",
         "title": "Timerunner",
         "type_code": "feat",
         "uniqueness": false
@@ -644,7 +644,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "After you {Silence} [i] an opponent, deal 1 damage to them.",
+        "text": "After you <strong>Silence</strong> [i] an opponent, deal 1 damage to them.",
         "title": "Distortion",
         "type_code": "feat",
         "uniqueness": false
@@ -669,7 +669,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "After you resolve an {Attack} card targeting an enemy, you may discard an {Ability} card. If you do, deal 2 more damage to them.",
+        "text": "After you resolve an <strong>Attack</strong> card targeting an enemy, you may discard an <strong>Ability</strong> card. If you do, deal 2 more damage to them.",
         "title": "Strive for Glory",
         "type_code": "feat",
         "uniqueness": false
@@ -694,7 +694,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "After you enter {Terrain} for the first time during your turn, {Stun} each opponent. <(They each lose a resource of their choice.)>",
+        "text": "After you enter <strong>Terrain</strong> for the first time during your turn, <strong>Stun</strong> each opponent. <small><em>(They each lose a resource of their choice.)</small></em>",
         "title": "Majesty",
         "type_code": "feat",
         "uniqueness": false
@@ -719,7 +719,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Target opponent puts the {bottom} card of their deck into their discard, then deal damage to them equal to that card's {resource} cost.",
+        "text": "Target opponent puts the <strong>bottom</strong> card of their deck into their discard, then deal damage to them equal to that card's <strong>resource</strong> cost.",
         "title": "Dream",
         "type_code": "feat",
         "uniqueness": false
@@ -744,7 +744,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "After an opponent uses their {Second Wind}, gain [p] [p] [p] and end your turn. {On Your Feet} can cause you to exceed your max [p].",
+        "text": "After an opponent uses their <strong>Second Wind</strong>, gain [p] [p] [p] and end your turn. <strong>On Your Feet</strong> can cause you to exceed your max [p].",
         "title": "On Your Feet",
         "type_code": "feat",
         "uniqueness": false
@@ -769,7 +769,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "{Indecisive} is a copy of an opponent's {Trait} of your choice.",
+        "text": "<strong>Indecisive</strong> is a copy of an opponent's <strong>Trait</strong> of your choice.",
         "title": "Indecisive",
         "type_code": "feat",
         "uniqueness": false
@@ -794,7 +794,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Reattach} target card {Attached} to a tile to another empty tile near it.",
+        "text": "<strong>Reattach</strong> target card <strong>Attached</strong> to a tile to another empty tile near it.",
         "title": "Hand Wave",
         "type_code": "feat",
         "uniqueness": false
@@ -821,7 +821,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "{Godsend} replaces your {Second Wind}. Gain a random {Relic}.",
+        "text": "<strong>Godsend</strong> replaces your <strong>Second Wind</strong>. Gain a random <strong>Relic</strong>.",
         "title": "Godsend",
         "type_code": "identity",
         "uniqueness": false
@@ -875,7 +875,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "{Invoke} replaces your {Second Wind}. Remove all {Control} from yourself and {Reveal} the top three cards of your deck. You may play a card from among them for {free} [f]. Put the rest into your discard.",
+        "text": "<strong>Invoke</strong> replaces your <strong>Second Wind</strong>. Remove all <strong>Control</strong> from yourself and <strong>Reveal</strong> the top three cards of your deck. You may play a card from among them for <strong>free</strong> [f]. Put the rest into your discard.",
         "title": "Invoke",
         "type_code": "identity",
         "uniqueness": false
@@ -902,7 +902,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "At the start of your turn, make a tile near you {Enchanted Terrain} [et].",
+        "text": "At the start of your turn, make a tile near you <strong>Enchanted Terrain</strong> [et].",
         "title": "Enchanting",
         "type_code": "identity",
         "uniqueness": false
@@ -956,7 +956,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "After you resolve an {Attack} card targeting an opponent, put the top card of their deck into their discard. For each type of {Control}, if that card is affected by that type and they aren't, apply one instance of that type to them.",
+        "text": "After you resolve an <strong>Attack</strong> card targeting an opponent, put the top card of their deck into their discard. For each type of <strong>Control</strong>, if that card is affected by that type and they aren't, apply one instance of that type to them.",
         "title": "Confuse",
         "type_code": "identity",
         "uniqueness": false
@@ -981,7 +981,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "{Silence 3} [i] target {Uncontrolled} opponent.",
+        "text": "<strong>Silence 3</strong> [i] target <strong>Uncontrolled</strong> opponent.",
         "title": "Chastise",
         "type_code": "skill",
         "uniqueness": false
@@ -1006,7 +1006,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Draw a card for each {Attack} card you've resolved this turn. Become {Chivalrous} [c].",
+        "text": "Draw a card for each <strong>Attack</strong> card you've resolved this turn. Become <strong>Chivalrous</strong> [c].",
         "title": "Clean thy Blade",
         "type_code": "skill",
         "uniqueness": false
@@ -1031,7 +1031,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "Deal 4 damage to target enemy. {Stun} them. <(They lose a resource of their choice.)>",
+        "text": "Deal 4 damage to target enemy. <strong>Stun</strong> them. <small><em>(They lose a resource of their choice.)</small></em>",
         "title": "Daring Strike",
         "type_code": "skill",
         "uniqueness": false
@@ -1056,7 +1056,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Attach} to target empty tile. At the start of your turn, you may make a tile near {Enchanted Lake} {Enchanted Terrain} [et].",
+        "text": "<strong>Attach</strong> to target empty tile. At the start of your turn, you may make a tile near <strong>Enchanted Lake</strong> <strong>Enchanted Terrain</strong> [et].",
         "title": "Enchanted Lake",
         "type_code": "skill",
         "uniqueness": false
@@ -1081,7 +1081,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Deal 5 damage to target enemy. Make a tile near you {Enchanted Terrain} [et].",
+        "text": "Deal 5 damage to target enemy. Make a tile near you <strong>Enchanted Terrain</strong> [et].",
         "title": "Enchanted Strike",
         "type_code": "skill",
         "uniqueness": false
@@ -1106,7 +1106,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "You may play a card for 1 less [a]. <(This can't reduce the action cost of that card to 0.)>",
+        "text": "You may play a card for 1 less [a]. <small><em>(This can't reduce the action cost of that card to 0.)</small></em>",
         "title": "For the King",
         "type_code": "skill",
         "uniqueness": false
@@ -1131,7 +1131,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "Deal 7 damage to target enemy. Become {Chivalrous} [c].",
+        "text": "Deal 7 damage to target enemy. Become <strong>Chivalrous</strong> [c].",
         "title": "Have At Thee",
         "type_code": "skill",
         "uniqueness": false
@@ -1156,7 +1156,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "{Attach} to yourself until your next turn. If you would take damage, instead prevent that damage and put that many cards from your deck into your discard.",
+        "text": "<strong>Attach</strong> to yourself until your next turn. If you would take damage, instead prevent that damage and put that many cards from your deck into your discard.",
         "title": "Have Faith",
         "type_code": "skill",
         "uniqueness": false
@@ -1181,7 +1181,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Make two target tiles {Enchanted Terrain} [et]. Draw a card.",
+        "text": "Make two target tiles <strong>Enchanted Terrain</strong> [et]. Draw a card.",
         "title": "Holy Ground",
         "type_code": "skill",
         "uniqueness": false
@@ -1206,7 +1206,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Choose one: - {Destroy} target card. - Each player discards down to four cards.",
+        "text": "Choose one: - <strong>Destroy</strong> target card. - Each player discards down to four cards.",
         "title": "Humble",
         "type_code": "skill",
         "uniqueness": false
@@ -1231,7 +1231,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Attach} to target opponent. After they dishonor the code of {Chivalry}, deal 2 damage to them.",
+        "text": "<strong>Attach</strong> to target opponent. After they dishonor the code of <strong>Chivalry</strong>, deal 2 damage to them.",
         "title": "Judgment",
         "type_code": "skill",
         "uniqueness": false
@@ -1256,7 +1256,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "Deal 10 damage to target enemy. If you're {Chivalrous}, {Slow 2} [o] and {Silence 2} [i] them.",
+        "text": "Deal 10 damage to target enemy. If you're <strong>Chivalrous</strong>, <strong>Slow 2</strong> [o] and <strong>Silence 2</strong> [i] them.",
         "title": "Justice",
         "type_code": "skill",
         "uniqueness": false
@@ -1281,7 +1281,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Gain a random {Relic}. If you've already gained a {Relic} this game, instead deal 5 damage to each opponent.",
+        "text": "Gain a random <strong>Relic</strong>. If you've already gained a <strong>Relic</strong> this game, instead deal 5 damage to each opponent.",
         "title": "Light of Dawn",
         "type_code": "skill",
         "uniqueness": false
@@ -1306,7 +1306,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Attach} to target empty tile. Opponents near {Oathstone} can't spend [n].",
+        "text": "<strong>Attach</strong> to target empty tile. Opponents near <strong>Oathstone</strong> can't spend [n].",
         "title": "Oathstone",
         "type_code": "skill",
         "uniqueness": false
@@ -1331,7 +1331,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "Become {Chivalrous} [c].",
+        "text": "Become <strong>Chivalrous</strong> [c].",
         "title": "Proclaim",
         "type_code": "skill",
         "uniqueness": false
@@ -1356,7 +1356,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "Heal yourself 4 HP. After {Providence} is sent to the discard, draw a card.",
+        "text": "Heal yourself 4 HP. After <strong>Providence</strong> is sent to the discard, draw a card.",
         "title": "Providence",
         "type_code": "skill",
         "uniqueness": false
@@ -1381,7 +1381,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": true,
-        "text": "{Counter} target card unless its controller pays 3 {Resources}. If the card is {Countered}, {Disarm 3} [d] them.",
+        "text": "<strong>Counter</strong> target card unless its controller pays 3 <strong>Resources</strong>. If the card is <strong>Countered</strong>, <strong>Disarm 3</strong> [d] them.",
         "title": "Rebuke",
         "type_code": "skill",
         "uniqueness": false
@@ -1406,7 +1406,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "You must be {Chivalrous} to play {Reliquary}. Gain a random {Relic}.",
+        "text": "You must be <strong>Chivalrous</strong> to play <strong>Reliquary</strong>. Gain a random <strong>Relic</strong>.",
         "title": "Reliquary",
         "type_code": "skill",
         "uniqueness": false
@@ -1431,7 +1431,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": true,
-        "text": "Deal 6 damage to target enemy. You may {Travel} them one tile.",
+        "text": "Deal 6 damage to target enemy. You may <strong>Travel</strong> them one tile.",
         "title": "Stand Aside",
         "type_code": "skill",
         "uniqueness": false
@@ -1456,7 +1456,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": true,
-        "text": "{Travel} another target character and yourself each up to one tile towards each other.",
+        "text": "<strong>Travel</strong> another target character and yourself each up to one tile towards each other.",
         "title": "Throw the Gauntlet",
         "type_code": "skill",
         "uniqueness": false
@@ -1481,7 +1481,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Attach} to yourself. After an opponent discards a card from their hand, deal 1 damage to each opponent. At the end of your turn, each opponent that has taken 6 or more damage this turn discards a card.",
+        "text": "<strong>Attach</strong> to yourself. After an opponent discards a card from their hand, deal 1 damage to each opponent. At the end of your turn, each opponent that has taken 6 or more damage this turn discards a card.",
         "title": "Ashes to Ashes",
         "type_code": "skill",
         "uniqueness": false
@@ -1506,7 +1506,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": true,
-        "text": "{Counter} target {Attack} card targeting you unless its controller pays 2 {Resources}.",
+        "text": "<strong>Counter</strong> target <strong>Attack</strong> card targeting you unless its controller pays 2 <strong>Resources</strong>.",
         "title": "Blur",
         "type_code": "skill",
         "uniqueness": false
@@ -1531,7 +1531,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Attach} to target empty tile. At the end of your turn, deal 4 damage to each enemy near {Chaos Storm}. Each opponent dealt damage this way discards a card. If no enemies are near {Chaos Storm}, instead {Reattach} it to a nearby empty tile.",
+        "text": "<strong>Attach</strong> to target empty tile. At the end of your turn, deal 4 damage to each enemy near <strong>Chaos Storm</strong>. Each opponent dealt damage this way discards a card. If no enemies are near <strong>Chaos Storm</strong>, instead <strong>Reattach</strong> it to a nearby empty tile.",
         "title": "Chaos Storm",
         "type_code": "skill",
         "uniqueness": false
@@ -1556,7 +1556,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Deal 7 damage to target enemy. Make two tiles near them {Enchanted Terrain} [et].",
+        "text": "Deal 7 damage to target enemy. Make two tiles near them <strong>Enchanted Terrain</strong> [et].",
         "title": "Embercrash",
         "type_code": "skill",
         "uniqueness": false
@@ -1581,7 +1581,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "Deal 4 damage to target enemy. {Slow 1} [o] them.",
+        "text": "Deal 4 damage to target enemy. <strong>Slow 1</strong> [o] them.",
         "title": "Enfeeble",
         "type_code": "skill",
         "uniqueness": false
@@ -1606,7 +1606,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Make target tile {Enchanted Terrain} [et]. After {Flare} is sent to the discard, {Stun} each opponent. <(They each lose a resource of their choice.)>",
+        "text": "Make target tile <strong>Enchanted Terrain</strong> [et]. After <strong>Flare</strong> is sent to the discard, <strong>Stun</strong> each opponent. <small><em>(They each lose a resource of their choice.)</small></em>",
         "title": "Flare",
         "type_code": "skill",
         "uniqueness": false
@@ -1656,7 +1656,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": true,
-        "text": "{Slow 1} [o] target opponent. If you played {Glare} in response to a card affected by {Slow} [o], gain 1 [a].",
+        "text": "<strong>Slow 1</strong> [o] target opponent. If you played <strong>Glare</strong> in response to a card affected by <strong>Slow</strong> [o], gain 1 [a].",
         "title": "Glare",
         "type_code": "skill",
         "uniqueness": false
@@ -1681,7 +1681,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "You may only play {Inner Fire} if you have 2 or less [p]. Draw a card.",
+        "text": "You may only play <strong>Inner Fire</strong> if you have 2 or less [p]. Draw a card.",
         "title": "Inner Fire",
         "type_code": "skill",
         "uniqueness": false
@@ -1731,7 +1731,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": true,
-        "text": "{Travel} each other character one tile away from you. Draw a card.",
+        "text": "<strong>Travel</strong> each other character one tile away from you. Draw a card.",
         "title": "Lash Out",
         "type_code": "skill",
         "uniqueness": false
@@ -1756,7 +1756,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "Choose one: - {Destroy} target card. - You may play a card. It gains {Heroic} [h]. <(It ignores control.)>",
+        "text": "Choose one: - <strong>Destroy</strong> target card. - You may play a card. It gains <strong>Heroic</strong> [h]. <small><em>(It ignores control.)</small></em>",
         "title": "Make So",
         "type_code": "skill",
         "uniqueness": false
@@ -1781,7 +1781,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "Deal 6 damage to target enemy. {Unleash} - deal 2 more damage to them and 1 damage to yourself per extra [p] spent.",
+        "text": "Deal 6 damage to target enemy. <strong>Unleash</strong> - deal 2 more damage to them and 1 damage to yourself per extra [p] spent.",
         "title": "Melt",
         "type_code": "skill",
         "uniqueness": false
@@ -1806,7 +1806,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Choose one: - Put the top five cards of your deck into your discard. - Remove target {Terrain}.",
+        "text": "Choose one: - Put the top five cards of your deck into your discard. - Remove target <strong>Terrain</strong>.",
         "title": "Rip Magic",
         "type_code": "skill",
         "uniqueness": false
@@ -1831,7 +1831,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "Deal 5 damage to target enemy. {Unleash} - apply an instance of {Control} to them for each extra [p] spent.",
+        "text": "Deal 5 damage to target enemy. <strong>Unleash</strong> - apply an instance of <strong>Control</strong> to them for each extra [p] spent.",
         "title": "Scorn",
         "type_code": "skill",
         "uniqueness": false
@@ -1856,7 +1856,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "{Slow 1} [o], {Silence 1} [i] and {Disarm 1} [d] target opponent near a tile with {Terrain}.",
+        "text": "<strong>Slow 1</strong> [o], <strong>Silence 1</strong> [i] and <strong>Disarm 1</strong> [d] target opponent near a tile with <strong>Terrain</strong>.",
         "title": "Singe",
         "type_code": "skill",
         "uniqueness": false
@@ -1881,7 +1881,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Attach} to yourself. When you're {Uncontrolled} and have no [p], gain 1 [p].",
+        "text": "<strong>Attach</strong> to yourself. When you're <strong>Uncontrolled</strong> and have no [p], gain 1 [p].",
         "title": "Sorcery",
         "type_code": "skill",
         "uniqueness": false
@@ -1906,7 +1906,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Deal 5 damage to target enemy. {Stun} them. <(They lose a resource of their choice.)> Gain a {Resource} of each type they did not lose.",
+        "text": "Deal 5 damage to target enemy. <strong>Stun</strong> them. <small><em>(They lose a resource of their choice.)</small></em> Gain a <strong>Resource</strong> of each type they did not lose.",
         "title": "Warpfire",
         "type_code": "skill",
         "uniqueness": false
@@ -1931,7 +1931,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Attach} to target empty tile. At the end of your turn, deal 3 damage to each enemy near {Wild Magic}.",
+        "text": "<strong>Attach</strong> to target empty tile. At the end of your turn, deal 3 damage to each enemy near <strong>Wild Magic</strong>.",
         "title": "Wild Magic",
         "type_code": "skill",
         "uniqueness": false
@@ -1956,7 +1956,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Disarm 2} [d] target opponent. They discard a card.",
+        "text": "<strong>Disarm 2</strong> [d] target opponent. They discard a card.",
         "title": "Wither",
         "type_code": "skill",
         "uniqueness": false
@@ -1981,7 +1981,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Cantrip} <(You may pay [n] to play this.)> {Attach} to target card you control. After that card is destroyed, you may play it for {free} [f], drawing {range} [r] from the tile it was in.",
+        "text": "<strong>Cantrip</strong> <small><em>(You may pay [n] to play this.)</small></em> <strong>Attach</strong> to target card you control. After that card is destroyed, you may play it for <strong>free</strong> [f], drawing <strong>range</strong> [r] from the tile it was in.",
         "title": "Arcane Lock",
         "type_code": "skill",
         "uniqueness": false
@@ -2006,7 +2006,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "{Cantrip} <(You may pay [n] to play this.)> {Slow 1} [o] and {Silence 2} [i] target opponent.",
+        "text": "<strong>Cantrip</strong> <small><em>(You may pay [n] to play this.)</small></em> <strong>Slow 1</strong> [o] and <strong>Silence 2</strong> [i] target opponent.",
         "title": "Befuddle",
         "type_code": "skill",
         "uniqueness": false
@@ -2031,7 +2031,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Deal 12 damage to each character near target tile. Make each tile near that tile {Enchanted Terrain} [et].",
+        "text": "Deal 12 damage to each character near target tile. Make each tile near that tile <strong>Enchanted Terrain</strong> [et].",
         "title": "Comet",
         "type_code": "skill",
         "uniqueness": false
@@ -2056,7 +2056,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "{Cantrip} <(You may pay [n] to play this.)> Deal 8 damage to target enemy. If you spent [n] to play {Cosmic Blast}, instead deal 4 damage to them.",
+        "text": "<strong>Cantrip</strong> <small><em>(You may pay [n] to play this.)</small></em> Deal 8 damage to target enemy. If you spent [n] to play <strong>Cosmic Blast</strong>, instead deal 4 damage to them.",
         "title": "Cosmic Blast",
         "type_code": "skill",
         "uniqueness": false
@@ -2081,7 +2081,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Choose one: - {Destroy} target card. - Deal 3 damage to target enemy.",
+        "text": "Choose one: - <strong>Destroy</strong> target card. - Deal 3 damage to target enemy.",
         "title": "Dismiss",
         "type_code": "skill",
         "uniqueness": false
@@ -2106,7 +2106,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Cantrip} <(You may pay [n] to play this.)> Draw two cards.",
+        "text": "<strong>Cantrip</strong> <small><em>(You may pay [n] to play this.)</small></em> Draw two cards.",
         "title": "Eureka",
         "type_code": "skill",
         "uniqueness": false
@@ -2131,7 +2131,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "{Attach} to yourself. After an opponent resolves a card targeting you, {Slow 1} [o] them. At the start of your turn, if an opponent is {Slowed}, {Destroy} {Flux} and gain 1 [a].",
+        "text": "<strong>Attach</strong> to yourself. After an opponent resolves a card targeting you, <strong>Slow 1</strong> [o] them. At the start of your turn, if an opponent is <strong>Slowed</strong>, <strong>Destroy</strong> <strong>Flux</strong> and gain 1 [a].",
         "title": "Flux",
         "type_code": "skill",
         "uniqueness": false
@@ -2156,7 +2156,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Cantrip} <(You may pay [n] to play this.)> {Attach} to target empty tile. At the end of your turn, if you are in {Leyline}, gain 1 [p].",
+        "text": "<strong>Cantrip</strong> <small><em>(You may pay [n] to play this.)</small></em> <strong>Attach</strong> to target empty tile. At the end of your turn, if you are in <strong>Leyline</strong>, gain 1 [p].",
         "title": "Leyline",
         "type_code": "skill",
         "uniqueness": false
@@ -2181,7 +2181,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "{Cantrip} <(You may pay [n] to play this.)> Deal 4 damage to target enemy.",
+        "text": "<strong>Cantrip</strong> <small><em>(You may pay [n] to play this.)</small></em> Deal 4 damage to target enemy.",
         "title": "Magic Missiles",
         "type_code": "skill",
         "uniqueness": false
@@ -2231,7 +2231,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": true,
-        "text": "Gain [n], then you may play a card. <(That card doesn't need the instant icon!)>",
+        "text": "Gain [n], then you may play a card. <small><em>(That card doesn't need the instant icon!)</small></em>",
         "title": "Quicken",
         "type_code": "skill",
         "uniqueness": false
@@ -2256,7 +2256,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Attach} to yourself. At the start of your turn, deal 2 damage to each opponent.",
+        "text": "<strong>Attach</strong> to yourself. At the start of your turn, deal 2 damage to each opponent.",
         "title": "Shooting Stars",
         "type_code": "skill",
         "uniqueness": false
@@ -2306,7 +2306,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": true,
-        "text": "{Counter} target card unless its controller pays 2 {Resources}. If a {Non-Feat} card was {Countered} in this way, put that card into your hand.",
+        "text": "<strong>Counter</strong> target card unless its controller pays 2 <strong>Resources</strong>. If a <strong>Non-Feat</strong> card was <strong>Countered</strong> in this way, put that card into your hand.",
         "title": "Spellsteal",
         "type_code": "skill",
         "uniqueness": false
@@ -2331,7 +2331,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Starlight} costs 1 less [a] to play if you've gained more than one [n] or spent [n] beyond a core game action this turn.",
+        "text": "<strong>Starlight</strong> costs 1 less [a] to play if you've gained more than one [n] or spent [n] beyond a core game action this turn.",
         "title": "Starlight",
         "type_code": "skill",
         "uniqueness": false
@@ -2356,7 +2356,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Deal 3 damage to target enemy. {Slow 3} [o] them. Gain [n].",
+        "text": "Deal 3 damage to target enemy. <strong>Slow 3</strong> [o] them. Gain [n].",
         "title": "Stop",
         "type_code": "skill",
         "uniqueness": false
@@ -2381,7 +2381,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": true,
-        "text": "{Travel} target enemy up to two tiles. {Slow 1} [o] and {Disarm 1} [d] them.",
+        "text": "<strong>Travel</strong> target enemy up to two tiles. <strong>Slow 1</strong> [o] and <strong>Disarm 1</strong> [d] them.",
         "title": "Telekinesis",
         "type_code": "skill",
         "uniqueness": false
@@ -2406,7 +2406,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": true,
-        "text": "{Cantrip} <(You may pay [n] to play this.)> {Travel} to another target tile.",
+        "text": "<strong>Cantrip</strong> <small><em>(You may pay [n] to play this.)</small></em> <strong>Travel</strong> to another target tile.",
         "title": "Teleport",
         "type_code": "skill",
         "uniqueness": false
@@ -2431,7 +2431,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": true,
-        "text": "{Disarm 1} [d] target opponent.",
+        "text": "<strong>Disarm 1</strong> [d] target opponent.",
         "title": "Unravel",
         "type_code": "skill",
         "uniqueness": false
@@ -2456,7 +2456,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Attach} to target empty tile. At the end of your turn, deal 4 damage to each enemy near {Vortex} and {Travel} them one tile towards it.",
+        "text": "<strong>Attach</strong> to target empty tile. At the end of your turn, deal 4 damage to each enemy near <strong>Vortex</strong> and <strong>Travel</strong> them one tile towards it.",
         "title": "Vortex",
         "type_code": "skill",
         "uniqueness": false
@@ -2506,7 +2506,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "{Attach} to yourself. If you would receive {Control}, instead {Destroy} {Dignity}.",
+        "text": "<strong>Attach</strong> to yourself. If you would receive <strong>Control</strong>, instead <strong>Destroy</strong> <strong>Dignity</strong>.",
         "title": "Dignity",
         "type_code": "skill",
         "uniqueness": false
@@ -2531,7 +2531,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Stun} target opponent. You choose which {Resource} they lose. <(They lose a resource of your choice.)> Draw a card.",
+        "text": "<strong>Stun</strong> target opponent. You choose which <strong>Resource</strong> they lose. <small><em>(They lose a resource of your choice.)</small></em> Draw a card.",
         "title": "Face Me",
         "type_code": "skill",
         "uniqueness": false
@@ -2581,7 +2581,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "Deal 6 damage to target enemy. {Disarm 2} [d] them.",
+        "text": "Deal 6 damage to target enemy. <strong>Disarm 2</strong> [d] them.",
         "title": "Heaven Strikes",
         "type_code": "skill",
         "uniqueness": false
@@ -2606,7 +2606,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "Become {Chivalrous} [c].",
+        "text": "Become <strong>Chivalrous</strong> [c].",
         "title": "Kneel",
         "type_code": "skill",
         "uniqueness": false
@@ -2631,7 +2631,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "Become {Chivalrous} [c]. {Attach} to yourself. At the start of your turn, gain 1 [a]. Then, if you are not {Chivalrous}, {Destroy} {Purpose}.",
+        "text": "Become <strong>Chivalrous</strong> [c]. <strong>Attach</strong> to yourself. At the start of your turn, gain 1 [a]. Then, if you are not <strong>Chivalrous</strong>, <strong>Destroy</strong> <strong>Purpose</strong>.",
         "title": "Purpose",
         "type_code": "skill",
         "uniqueness": false
@@ -2656,7 +2656,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Regain} a random {Relic} that you've already gained this game.",
+        "text": "<strong>Regain</strong> a random <strong>Relic</strong> that you've already gained this game.",
         "title": "Reforge",
         "type_code": "skill",
         "uniqueness": false
@@ -2681,7 +2681,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Choose one: - {Destroy} target card. - Heal target character 4 HP.",
+        "text": "Choose one: - <strong>Destroy</strong> target card. - Heal target character 4 HP.",
         "title": "Sanctify",
         "type_code": "skill",
         "uniqueness": false
@@ -2706,7 +2706,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Stun} each opponent near target empty tile. <(They lose a resource of their choice.)> {Attach} to that tile. At the end of your turn, deal 4 damage to each enemy near {Sword of Saints}.",
+        "text": "<strong>Stun</strong> each opponent near target empty tile. <small><em>(They lose a resource of their choice.)</small></em> <strong>Attach</strong> to that tile. At the end of your turn, deal 4 damage to each enemy near <strong>Sword of Saints</strong>.",
         "title": "Sword of Saints",
         "type_code": "skill",
         "uniqueness": false
@@ -2731,7 +2731,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Use your {Second Wind}. If you've already used your {Second Wind}, each opponent near you instead discards two cards.",
+        "text": "Use your <strong>Second Wind</strong>. If you've already used your <strong>Second Wind</strong>, each opponent near you instead discards two cards.",
         "title": "Cry Havoc",
         "type_code": "skill",
         "uniqueness": false
@@ -2756,7 +2756,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "Deal 4 damage to target enemy. {Disarm 2} [d] them.",
+        "text": "Deal 4 damage to target enemy. <strong>Disarm 2</strong> [d] them.",
         "title": "Cut Down",
         "type_code": "skill",
         "uniqueness": false
@@ -2781,7 +2781,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "Deal 4 damage to target enemy. Become {Chivalrous} [c]. If you're already {Chivalrous}, deal 2 more damage to them.",
+        "text": "Deal 4 damage to target enemy. Become <strong>Chivalrous</strong> [c]. If you're already <strong>Chivalrous</strong>, deal 2 more damage to them.",
         "title": "Gallant Strike",
         "type_code": "skill",
         "uniqueness": false
@@ -2806,7 +2806,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "You must be {Chivalrous} to play {No Mercy}. You dishonor the code of {Chivalry}, then gain [n].",
+        "text": "You must be <strong>Chivalrous</strong> to play <strong>No Mercy</strong>. You dishonor the code of <strong>Chivalry</strong>, then gain [n].",
         "title": "No Mercy",
         "type_code": "skill",
         "uniqueness": false
@@ -2831,7 +2831,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "{Attach} to target empty tile at least three tiles away from you. After you enter {Relic Site}, gain a random {Relic}, then {Destroy} {Relic Site}.",
+        "text": "<strong>Attach</strong> to target empty tile at least three tiles away from you. After you enter <strong>Relic Site</strong>, gain a random <strong>Relic</strong>, then <strong>Destroy</strong> <strong>Relic Site</strong>.",
         "title": "Relic Site",
         "type_code": "skill",
         "uniqueness": false
@@ -2856,7 +2856,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Choose one: - {Destroy} target card. - Return an {Attack} card from your discard to your hand.",
+        "text": "Choose one: - <strong>Destroy</strong> target card. - Return an <strong>Attack</strong> card from your discard to your hand.",
         "title": "Rite of Arms",
         "type_code": "skill",
         "uniqueness": false
@@ -2881,7 +2881,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "Deal 6 damage to target enemy. {Strike True} can't be {Countered}.",
+        "text": "Deal 6 damage to target enemy. <strong>Strike True</strong> can't be <strong>Countered</strong>.",
         "title": "Strike True",
         "type_code": "skill",
         "uniqueness": false
@@ -2906,7 +2906,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": true,
-        "text": "Choose one: - {Slow 2} [o] target opponent. - {Disarm 2} [d] target opponent.",
+        "text": "Choose one: - <strong>Slow 2</strong> [o] target opponent. - <strong>Disarm 2</strong> [d] target opponent.",
         "title": "Swordplay",
         "type_code": "skill",
         "uniqueness": false
@@ -2931,7 +2931,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "{Travel} up to two tiles towards another target character.",
+        "text": "<strong>Travel</strong> up to two tiles towards another target character.",
         "title": "To Battle",
         "type_code": "skill",
         "uniqueness": false
@@ -2981,7 +2981,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Replace one of your {Feats} with {Apotheosis}. <(If Apotheosis is destroyed, replace it with your old feat.)> {Attach} to yourself. At the end of your turn, {Invoke}. <(This counts as using your Second Wind.)>",
+        "text": "Replace one of your <strong>Feats</strong> with <strong>Apotheosis</strong>. <small><em>(If Apotheosis is destroyed, replace it with your old feat.)</small></em>\n<strong>Attach</strong> to yourself.\nAt the end of your turn, <strong>Invoke</strong>. <small><em>(This counts as using your Second Wind.)</small></em>",
         "title": "Apotheosis",
         "type_code": "skill",
         "uniqueness": false
@@ -3006,7 +3006,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Silence 2} [i] and {Disarm 2} [d] target opponent. {Unleash} - they discard a card for each extra [p] spent.",
+        "text": "<strong>Silence 2</strong> [i] and <strong>Disarm 2</strong> [d] target opponent. <strong>Unleash</strong> - they discard a card for each extra [p] spent.",
         "title": "Char",
         "type_code": "skill",
         "uniqueness": false
@@ -3031,7 +3031,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Choose one: - {Destroy} target card. - Gain 1 more [p].",
+        "text": "Choose one: - <strong>Destroy</strong> target card. - Gain 1 more [p].",
         "title": "Firepower",
         "type_code": "skill",
         "uniqueness": false
@@ -3056,7 +3056,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": true,
-        "text": "Deal 3 damage to target enemy. {Silence 1} [i] them.",
+        "text": "Deal 3 damage to target enemy. <strong>Silence 1</strong> [i] them.",
         "title": "Flashburn",
         "type_code": "skill",
         "uniqueness": false
@@ -3106,7 +3106,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Deal 8 damage to target enemy. {Unleash} - for each extra [p] spent, put the top card of your deck into your discard. Deal more damage to them equal to the total {Resource} cost of cards put into your discard this way.",
+        "text": "Deal 8 damage to target enemy. <strong>Unleash</strong> - for each extra [p] spent, put the top card of your deck into your discard. Deal more damage to them equal to the total <strong>Resource</strong> cost of cards put into your discard this way.",
         "title": "Inferno",
         "type_code": "skill",
         "uniqueness": false
@@ -3131,7 +3131,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "{Pyre} can cause you to exceed your max [p].",
+        "text": "<strong>Pyre</strong> can cause you to exceed your max [p].",
         "title": "Pyre",
         "type_code": "skill",
         "uniqueness": false
@@ -3156,7 +3156,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "Deal 4 damage to target enemy. {Disarm 1} [d] them.",
+        "text": "Deal 4 damage to target enemy. <strong>Disarm 1</strong> [d] them.",
         "title": "Sear",
         "type_code": "skill",
         "uniqueness": false
@@ -3181,7 +3181,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Attach} to target empty tile. {Chaos Orb} gains the start and end of turn triggers of all {Non-Chaos Orb} cards attached to tiles near it.",
+        "text": "<strong>Attach</strong> to target empty tile. <strong>Chaos Orb</strong> gains the start and end of turn triggers of all <strong>Non-Chaos Orb</strong> cards attached to tiles near it.",
         "title": "Chaos Orb",
         "type_code": "skill",
         "uniqueness": false
@@ -3206,7 +3206,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Deal 2 damage to target enemy. {Unleash} - deal 1 more damage to them for each extra [p] spent. If you {Unleashed} {Spitfire}, gain 2 [p].",
+        "text": "Deal 2 damage to target enemy. <strong>Unleash</strong> - deal 1 more damage to them for each extra [p] spent. If you <strong>Unleashed</strong> <strong>Spitfire</strong>, gain 2 [p].",
         "title": "Spitfire",
         "type_code": "skill",
         "uniqueness": false
@@ -3231,7 +3231,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": true,
-        "text": "Deal 4 damage to target enemy. {Travel} them up to one tile away from you.",
+        "text": "Deal 4 damage to target enemy. <strong>Travel</strong> them up to one tile away from you.",
         "title": "Begone",
         "type_code": "skill",
         "uniqueness": false
@@ -3256,7 +3256,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Deal 6 damage to target enemy. You may play a card, spending any combination of your {Resources} and their {Resources}.",
+        "text": "Deal 6 damage to target enemy. You may play a card, spending any combination of your <strong>Resources</strong> and their <strong>Resources</strong>.",
         "title": "Ensorcell",
         "type_code": "skill",
         "uniqueness": false
@@ -3281,7 +3281,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Attach} to target empty tile. At the end of your turn, {Silence 2} [i] each opponent near {Hush}.",
+        "text": "<strong>Attach</strong> to target empty tile. At the end of your turn, <strong>Silence 2</strong> [i] each opponent near <strong>Hush</strong>.",
         "title": "Hush",
         "type_code": "skill",
         "uniqueness": false
@@ -3306,7 +3306,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": true,
-        "text": "{Travel} to another target tile near {Terrain}.",
+        "text": "<strong>Travel</strong> to another target tile near <strong>Terrain</strong>.",
         "title": "Jaunt",
         "type_code": "skill",
         "uniqueness": false
@@ -3331,7 +3331,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Disarm 3} [d] target opponent, then {Attach} to them. Their maximum [p] is reduced by one. <(They don't lose excess resources.)>",
+        "text": "<strong>Disarm 3</strong> [d] target opponent, then <strong>Attach</strong> to them. Their maximum [p] is reduced by one. <small><em>(They don't lose excess resources.)</small></em>",
         "title": "Lullaby",
         "type_code": "skill",
         "uniqueness": false
@@ -3356,7 +3356,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Attach} to yourself. At the start of your turn, make a tile near each opponent {Enchanted Terrain} [et]. After {Terrain} is made or removed near an enemy without having been replaced, deal 1 damage to them.",
+        "text": "<strong>Attach</strong> to yourself. At the start of your turn, make a tile near each opponent <strong>Enchanted Terrain</strong> [et]. After <strong>Terrain</strong> is made or removed near an enemy without having been replaced, deal 1 damage to them.",
         "title": "My Realm",
         "type_code": "skill",
         "uniqueness": false
@@ -3406,7 +3406,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Slow 2} [o] target opponent. Make a tile near them {Enchanted Terrain} [et].",
+        "text": "<strong>Slow 2</strong> [o] target opponent. Make a tile near them <strong>Enchanted Terrain</strong> [et].",
         "title": "Sleep",
         "type_code": "skill",
         "uniqueness": false
@@ -3431,7 +3431,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "{Silence 1} [i] target opponent. {Disarm 1} [d] them.",
+        "text": "<strong>Silence 1</strong> [i] target opponent. <strong>Disarm 1</strong> [d] them.",
         "title": "Spellbind",
         "type_code": "skill",
         "uniqueness": false
@@ -3456,7 +3456,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": true,
-        "text": "{Counter} target card unless its controller pays 3 {Resources}. If the card is {Countered}, they discard two cards.",
+        "text": "<strong>Counter</strong> target card unless its controller pays 3 <strong>Resources</strong>. If the card is <strong>Countered</strong>, they discard two cards.",
         "title": "Spurn",
         "type_code": "skill",
         "uniqueness": false
@@ -3481,7 +3481,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Choose one: - {Destroy} target card. - Gain [n].",
+        "text": "Choose one: - <strong>Destroy</strong> target card. - Gain [n].",
         "title": "Alter",
         "type_code": "skill",
         "uniqueness": false
@@ -3506,7 +3506,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Deal 2 damage to target enemy. {Silence 1} [i] them. After {Arcane Barrage} resolves, you may spend [n] to play a {copy} for {free} [f]. <(You may spend multiple [n].)>",
+        "text": "Deal 2 damage to target enemy. <strong>Silence 1</strong> [i] them. After <strong>Arcane Barrage</strong> resolves, you may spend [n] to play a <strong>copy</strong> for <strong>free</strong> [f]. <small><em>(You may spend multiple [n].)</small></em>",
         "title": "Arcane Barrage",
         "type_code": "skill",
         "uniqueness": false
@@ -3531,7 +3531,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "{Counter} target card.",
+        "text": "<strong>Counter</strong> target card.",
         "title": "Counterspell",
         "type_code": "skill",
         "uniqueness": false
@@ -3556,7 +3556,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Deal 10 damage to target enemy. {Stun} them, then {Stun} them again. <(They lose two resources of their choice.)>",
+        "text": "Deal 10 damage to target enemy. <strong>Stun</strong> them, then <strong>Stun</strong> them again. <small><em>(They lose two resources of their choice.)</small></em>",
         "title": "Disintegrate",
         "type_code": "skill",
         "uniqueness": false
@@ -3606,7 +3606,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Cantrip} <(You may pay [n] to play this.)> {Disarm 3} [d] target opponent. {Stun} them. <(They lose a resource of their choice.)>",
+        "text": "<strong>Cantrip</strong> <small><em>(You may pay [n] to play this.)</small></em> <strong>Disarm 3</strong> [d] target opponent. <strong>Stun</strong> them. <small><em>(They lose a resource of their choice.)</small></em>",
         "title": "Polymorph",
         "type_code": "skill",
         "uniqueness": false
@@ -3631,7 +3631,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "{Attach} to target opponent until your next turn. They are {Exhausted}. <(Damage they take can't be reduced, they can't gain HP, and if they would draw a card, they instead take 5 damage.)>",
+        "text": "<strong>Attach</strong> to target opponent until your next turn. They are <strong>Exhausted</strong>. <small><em>(Damage they take can't be reduced, they can't gain HP, and if they would draw a card, they instead take 5 damage.)</small></em>",
         "title": "Ray of Exhaustion",
         "type_code": "skill",
         "uniqueness": false
@@ -3656,7 +3656,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Cantrip} <(You may pay [n] to play this.)> You may play a card from your hand. If it resolves, return it to your hand.",
+        "text": "<strong>Cantrip</strong> <small><em>(You may pay [n] to play this.)</small></em> You may play a card from your hand. If it resolves, return it to your hand.",
         "title": "Spellsurge",
         "type_code": "skill",
         "uniqueness": false
@@ -3681,7 +3681,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": true,
-        "text": "{Slow 1} [o] target opponent.",
+        "text": "<strong>Slow 1</strong> [o] target opponent.",
         "title": "Time Spiral",
         "type_code": "skill",
         "uniqueness": false
@@ -3731,7 +3731,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "You may return an {Attack} card from your discard to your hand. {Attach} to yourself. After you resolve an {Attack} card targeting an enemy, deal 1 damage to them.",
+        "text": "You may return an <strong>Attack</strong> card from your discard to your hand. <strong>Attach</strong> to yourself. After you resolve an <strong>Attack</strong> card targeting an enemy, deal 1 damage to them.",
         "title": "Echoes",
         "type_code": "skill",
         "uniqueness": false
@@ -3756,7 +3756,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": true,
-        "text": "{Counter} target card unless its controller pays 2 {Resources}. If the card is {Countered}, return it to the top of their deck.",
+        "text": "<strong>Counter</strong> target card unless its controller pays 2 <strong>Resources</strong>. If the card is <strong>Countered</strong>, return it to the top of their deck.",
         "title": "Hypnotize",
         "type_code": "skill",
         "uniqueness": false
@@ -3781,7 +3781,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "Play {Mimic} as if it were an {Attack} card in another player's discard, then put that card on the bottom of their deck.",
+        "text": "Play <strong>Mimic</strong> as if it were an <strong>Attack</strong> card in another player's discard, then put that card on the bottom of their deck.",
         "title": "Mimic",
         "type_code": "skill",
         "uniqueness": false
@@ -3806,7 +3806,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "Deal 3 damage to target enemy. You may put up to six copies of {Mind Spike} into your deck.",
+        "text": "Deal 3 damage to target enemy. You may put up to six copies of <strong>Mind Spike</strong> into your deck.",
         "title": "Mind Spike",
         "type_code": "skill",
         "uniqueness": false
@@ -3831,7 +3831,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": true,
-        "text": "{Travel} up to two tiles. If the tile you were in is empty, {Attach} {Mirror Image} to it. At the end of your turn, {Stun} each opponent near {Mirror Image}.",
+        "text": "<strong>Travel</strong> up to two tiles. If the tile you were in is empty, <strong>Attach</strong> <strong>Mirror Image</strong> to it. At the end of your turn, <strong>Stun</strong> each opponent near <strong>Mirror Image</strong>.",
         "title": "Mirror Image",
         "type_code": "skill",
         "uniqueness": false
@@ -3856,7 +3856,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Add an instance of each type of {Control} target opponent is affected by to them.",
+        "text": "Add an instance of each type of <strong>Control</strong> target opponent is affected by to them.",
         "title": "Perplex",
         "type_code": "skill",
         "uniqueness": false
@@ -3881,7 +3881,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Target opponent puts the top seven cards of their deck into their discard. {Slow 2} [o] them. {Disarm 2} [d] them.",
+        "text": "Target opponent puts the top seven cards of their deck into their discard. <strong>Slow 2</strong> [o] them. <strong>Disarm 2</strong> [d] them.",
         "title": "Phantasma",
         "type_code": "skill",
         "uniqueness": false
@@ -3906,7 +3906,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Attach} to target {Trait} another player controls. You control that {Trait}.",
+        "text": "<strong>Attach</strong> to target <strong>Trait</strong> another player controls. You control that <strong>Trait</strong>.",
         "title": "Puppeteer",
         "type_code": "skill",
         "uniqueness": false
@@ -3931,7 +3931,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "You may play a card for {free} [f] unless any opponent deals 5 damage to themselves.",
+        "text": "You may play a card for <strong>free</strong> [f] unless any opponent deals 5 damage to themselves.",
         "title": "Schism",
         "type_code": "skill",
         "uniqueness": false

@@ -19,7 +19,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "You may play a card for 1 less {Resource}. <(Action and power costs may not be reduced to zero in this way.)> {Crystal Focus} may be played once per game. After you {Second Wind}, reset the use of {Crystal Focus}.",
+        "text": "You may play a card for 1 less <strong>Resource</strong>. <small><em>(Action and power costs may not be reduced to zero in this way.)</small></em> <strong>Crystal Focus</strong> may be played once per game. After you <strong>Second Wind</strong>, reset the use of <strong>Crystal Focus</strong>.",
         "title": "Crystal Focus",
         "type_code": "feat",
         "uniqueness": false
@@ -94,7 +94,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": true,
-        "text": "{Travel} to target tile. {Spirit Gate} may be played once per game.",
+        "text": "<strong>Travel</strong> to target tile. <strong>Spirit Gate</strong> may be played once per game.",
         "title": "Spirit Gate",
         "type_code": "feat",
         "uniqueness": false
@@ -119,7 +119,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "After you {Second Wind}, heal yourself 5 HP.",
+        "text": "After you <strong>Second Wind</strong>, heal yourself 5 HP.",
         "title": "Strength of Spirit",
         "type_code": "feat",
         "uniqueness": false
@@ -144,7 +144,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "The {range} [r] of your {Attack} cards is 1. After you resolve your first {Attack} card during your turn, gain [n].",
+        "text": "The <strong>range</strong> [r] of your <strong>Attack</strong> cards is 1. After you resolve your first <strong>Attack</strong> card during your turn, gain [n].",
         "title": "Etherean",
         "type_code": "feat",
         "uniqueness": false
@@ -169,7 +169,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "{Silence 2} [i] target opponent.",
+        "text": "<strong>Silence 2</strong> [i] target opponent.",
         "title": "Cry of the Flock",
         "type_code": "feat",
         "uniqueness": false
@@ -194,7 +194,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "You may play a {Non-Attack} card targeting an enemy. If you don't, {Stun} yourself. <(Lose a resource of your choice.)>",
+        "text": "You may play a <strong>Non-Attack</strong> card targeting an enemy. If you don't, <strong>Stun</strong> yourself. <small><em>(Lose a resource of your choice.)</small></em>",
         "title": "Curseweave",
         "type_code": "feat",
         "uniqueness": false
@@ -219,7 +219,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "Deal 2 damage to target enemy. {Breach} - deal 1 more damage to them. <(This card has Breach if the target has a revealed card in their hand.)>",
+        "text": "Deal 2 damage to target enemy. <strong>Breach</strong> - deal 1 more damage to them. <small><em>(This card has Breach if the target has a revealed card in their hand.)</small></em>",
         "title": "Howls of the Lost",
         "type_code": "feat",
         "uniqueness": false
@@ -244,7 +244,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Choose one: - Target player {Reveals} a card from their hand. - Target player discards a {Revealed} card of their choice.",
+        "text": "Choose one: - Target player <strong>Reveals</strong> a card from their hand. - Target player discards a <strong>Revealed</strong> card of their choice.",
         "title": "Scour Spirit",
         "type_code": "feat",
         "uniqueness": false
@@ -269,7 +269,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Target opponent {Reveals} two cards from their hand, then deal damage to them and heal yourself HP equal to the number of {Revealed} cards in their hand. {Spirit Drain} may be played once per game.",
+        "text": "Target opponent <strong>Reveals</strong> two cards from their hand, then deal damage to them and heal yourself HP equal to the number of <strong>Revealed</strong> cards in their hand. <strong>Spirit Drain</strong> may be played once per game.",
         "title": "Spirit Drain",
         "type_code": "feat",
         "uniqueness": false
@@ -294,7 +294,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "Only play {Doom Bolt} if you're {Controlled}. Deal 6 damage to target enemy.",
+        "text": "Only play <strong>Doom Bolt</strong> if you're <strong>Controlled</strong>. Deal 6 damage to target enemy.",
         "title": "Doom Bolt",
         "type_code": "feat",
         "uniqueness": false
@@ -344,7 +344,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "After you make {Terrain} in a tile that already had {Terrain}, deal 2 damage to target enemy in that tile.",
+        "text": "After you make <strong>Terrain</strong> in a tile that already had <strong>Terrain</strong>, deal 2 damage to target enemy in that tile.",
         "title": "Collateral Damage",
         "type_code": "feat",
         "uniqueness": false
@@ -419,7 +419,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Make target tile {Difficult Terrain} [dt].",
+        "text": "Make target tile <strong>Difficult Terrain</strong> [dt].",
         "title": "Upheaval",
         "type_code": "feat",
         "uniqueness": false
@@ -444,7 +444,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "{Looming} may only trigger if you have at least two {Revealed} cards in your hand. After a card with {Hardcast} you played fails to resolve, you may return it from your discard to your hand. {Looming} may trigger once per turn.",
+        "text": "<strong>Looming</strong> may only trigger if you have at least two <strong>Revealed</strong> cards in your hand. After a card with <strong>Hardcast</strong> you played fails to resolve, you may return it from your discard to your hand. <strong>Looming</strong> may trigger once per turn.",
         "title": "Looming",
         "type_code": "feat",
         "uniqueness": false
@@ -469,7 +469,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": true,
-        "text": "Choose one: - {Slow 2} [o] target opponent. - {Disarm 2} [d] target opponent. {Arctic Wind} may be played once per game.",
+        "text": "Choose one: - <strong>Slow 2</strong> [o] target opponent. - <strong>Disarm 2</strong> [d] target opponent. <strong>Arctic Wind</strong> may be played once per game.",
         "title": "Arctic Wind",
         "type_code": "feat",
         "uniqueness": false
@@ -494,7 +494,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "{Slow 2} [o] target opponent. {Coldblast} may be played once per game. After you {Second Wind}, reset the use of {Coldblast}.",
+        "text": "<strong>Slow 2</strong> [o] target opponent. <strong>Coldblast</strong> may be played once per game. After you <strong>Second Wind</strong>, reset the use of <strong>Coldblast</strong>.",
         "title": "Coldblast",
         "type_code": "feat",
         "uniqueness": false
@@ -519,7 +519,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "After you {Slow} [o] an opponent for the first time during your turn, gain 1 [p].",
+        "text": "After you <strong>Slow</strong> [o] an opponent for the first time during your turn, gain 1 [p].",
         "title": "Fragments",
         "type_code": "feat",
         "uniqueness": false
@@ -544,7 +544,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "Deal 2 damage to target enemy. {Advantage} - deal 1 more damage to them. <(This card has Advantage if the target is controlled.)>",
+        "text": "Deal 2 damage to target enemy. <strong>Advantage</strong> - deal 1 more damage to them. <small><em>(This card has Advantage if the target is controlled.)</small></em>",
         "title": "Icicle",
         "type_code": "feat",
         "uniqueness": false
@@ -569,7 +569,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "At the start of your turn, remove an instance of {Control} from yourself. If you can't, gain {Mitigate 1}.",
+        "text": "At the start of your turn, remove an instance of <strong>Control</strong> from yourself. If you can't, gain <strong>Mitigate 1</strong>.",
         "title": "Wintermark",
         "type_code": "feat",
         "uniqueness": false
@@ -594,7 +594,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "After you {Slow} [o] an opponent, deal 1 damage to them.",
+        "text": "After you <strong>Slow</strong> [o] an opponent, deal 1 damage to them.",
         "title": "Biting Cold",
         "type_code": "feat",
         "uniqueness": false
@@ -619,7 +619,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Seek} <(Look at the top card of your deck. Either draw that card, or put that card into your discard and draw the next card.)>",
+        "text": "<strong>Seek</strong> <small><em>(Look at the top card of your deck. Either draw that card, or put that card into your discard and draw the next card.)</small></em>",
         "title": "Druidic Rite",
         "type_code": "feat",
         "uniqueness": false
@@ -669,7 +669,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "After you {Second Wind}, {Attach} {Lifeseed} to yourself. {Duration} - heal yourself 3 HP. <(The effect triggers at the end of your turn, removing an instance of Duration. When none are left, destroy this card.)>",
+        "text": "After you <strong>Second Wind</strong>, <strong>Attach</strong> <strong>Lifeseed</strong> to yourself. <strong>Duration</strong> - heal yourself 3 HP. <small><em>(The effect triggers at the end of your turn, removing an instance of Duration. When none are left, destroy this card.)</small></em>",
         "title": "Lifeseed",
         "type_code": "feat",
         "uniqueness": false
@@ -694,7 +694,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "{Attach} to target player. {Duration} - heal them 1 HP. <(The effect triggers at the end of your turn, removing an instance of Duration. When none are left, destroy this card.)>",
+        "text": "<strong>Attach</strong> to target player. <strong>Duration</strong> - heal them 1 HP. <small><em>(The effect triggers at the end of your turn, removing an instance of Duration. When none are left, destroy this card.)</small></em>",
         "title": "Regenerate",
         "type_code": "feat",
         "uniqueness": false
@@ -719,7 +719,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Only play {Verdant Burst} if you have at least 15 cards in your discard. {Verdant Burst} may be played once per game.",
+        "text": "Only play <strong>Verdant Burst</strong> if you have at least 15 cards in your discard. <strong>Verdant Burst</strong> may be played once per game.",
         "title": "Verdant Burst",
         "type_code": "feat",
         "uniqueness": false
@@ -794,7 +794,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "Gain {Mitigate 3}. <(Mitigate takes damage before HP. A player's Mitigate lasts until the start of their next turn.)>",
+        "text": "Gain <strong>Mitigate 3</strong>. <small><em>(Mitigate takes damage before HP. A player's Mitigate lasts until the start of their next turn.)</small></em>",
         "title": "Hold",
         "type_code": "feat",
         "uniqueness": false
@@ -819,7 +819,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "{Frenzy} - at the start of your turn, gain {Mitigate 2}. <(This card has Frenzy if a player has used their second wind.)>",
+        "text": "<strong>Frenzy</strong> - at the start of your turn, gain <strong>Mitigate 2</strong>. <small><em>(This card has Frenzy if a player has used their second wind.)</small></em>",
         "title": "Resilience",
         "type_code": "feat",
         "uniqueness": false
@@ -869,7 +869,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": true,
-        "text": "{Counter} target {Ability} card unless its controller spends 1 {Resource}.",
+        "text": "<strong>Counter</strong> target <strong>Ability</strong> card unless its controller spends 1 <strong>Resource</strong>.",
         "title": "Superstition",
         "type_code": "feat",
         "uniqueness": false
@@ -894,7 +894,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "Deal 4 damage to target enemy plus damage equal to your {Mitigate}. Then, lose your {Mitigate}.",
+        "text": "Deal 4 damage to target enemy plus damage equal to your <strong>Mitigate</strong>. Then, lose your <strong>Mitigate</strong>.",
         "title": "Hammerfall",
         "type_code": "feat",
         "uniqueness": false
@@ -944,7 +944,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "The second {Attack} card you play during your turn costs 1 less {Resource}. <(Action and power costs may not be reduced to zero in this way.)> After you play your second {Attack} card during your turn, if its cost was reduced, deal 3 damage to yourself.",
+        "text": "The second <strong>Attack</strong> card you play during your turn costs 1 less <strong>Resource</strong>. <small><em>(Action and power costs may not be reduced to zero in this way.)</small></em> After you play your second <strong>Attack</strong> card during your turn, if its cost was reduced, deal 3 damage to yourself.",
         "title": "Accursed Strength",
         "type_code": "feat",
         "uniqueness": false
@@ -994,7 +994,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": true,
-        "text": "Only play {Wary} if you've taken 8 or more damage this turn. {Attach} to yourself until the end of turn. You can't be targeted by enemies. After you play a card, {Destroy} {Wary}.",
+        "text": "Only play <strong>Wary</strong> if you've taken 8 or more damage this turn. <strong>Attach</strong> to yourself until the end of turn. You can't be targeted by enemies. After you play a card, <strong>Destroy</strong> <strong>Wary</strong>.",
         "title": "Wary",
         "type_code": "feat",
         "uniqueness": false
@@ -1019,7 +1019,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "At the end of your turn, if you have no {Resources}, gain 1 [a].",
+        "text": "At the end of your turn, if you have no <strong>Resources</strong>, gain 1 [a].",
         "title": "Huntmaster",
         "type_code": "feat",
         "uniqueness": false
@@ -1044,7 +1044,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": true,
-        "text": "{Travel} to another target tile.",
+        "text": "<strong>Travel</strong> to another target tile.",
         "title": "Shift",
         "type_code": "feat",
         "uniqueness": false
@@ -1069,7 +1069,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": true,
-        "text": "{Disarm 2} [d] target opponent.",
+        "text": "<strong>Disarm 2</strong> [d] target opponent.",
         "title": "Calm Spirit",
         "type_code": "skill",
         "uniqueness": false
@@ -1094,7 +1094,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": true,
-        "text": "Choose one: - {Destroy} target card. - {Travel} another target character away from you one tile.",
+        "text": "Choose one: - <strong>Destroy</strong> target card. - <strong>Travel</strong> another target character away from you one tile.",
         "title": "Cast Away",
         "type_code": "skill",
         "uniqueness": false
@@ -1119,7 +1119,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": true,
-        "text": "Deal 2 damage to target enemy. {Counter} up to one target card unless its controller spends 1 {Resource}.",
+        "text": "Deal 2 damage to target enemy. <strong>Counter</strong> up to one target card unless its controller spends 1 <strong>Resource</strong>.",
         "title": "Ego Shock",
         "type_code": "skill",
         "uniqueness": false
@@ -1144,7 +1144,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Attach} to target player. At the start of your turn, they gain 1 [p].",
+        "text": "<strong>Attach</strong> to target player. At the start of your turn, they gain 1 [p].",
         "title": "Empower",
         "type_code": "skill",
         "uniqueness": false
@@ -1169,7 +1169,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "If you've resolved another {Ability} card this turn, gain 2 more [p].",
+        "text": "If you've resolved another <strong>Ability</strong> card this turn, gain 2 more [p].",
         "title": "Energize",
         "type_code": "skill",
         "uniqueness": false
@@ -1194,7 +1194,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Use your {Second Wind}. If you've already used your {Second Wind}, instead put the bottom card of your deck into your hand.",
+        "text": "Use your <strong>Second Wind</strong>. If you've already used your <strong>Second Wind</strong>, instead put the bottom card of your deck into your hand.",
         "title": "Epiphany",
         "type_code": "skill",
         "uniqueness": false
@@ -1219,7 +1219,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "Target player may play a card. If they do, that card gains {Heroic} [h] <(That card ignores control)>",
+        "text": "Target player may play a card. If they do, that card gains <strong>Heroic</strong> [h] <small><em>(That card ignores control)</small></em>",
         "title": "Free Spirit",
         "type_code": "skill",
         "uniqueness": false
@@ -1269,7 +1269,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "{Attach} to target empty tile until end of turn. All of your cards, except {Travel} cards that target a tile, also draw {range} [r] from {Projection}.",
+        "text": "<strong>Attach</strong> to target empty tile until end of turn. All of your cards, except <strong>Travel</strong> cards that target a tile, also draw <strong>range</strong> [r] from <strong>Projection</strong>.",
         "title": "Projection",
         "type_code": "skill",
         "uniqueness": false
@@ -1294,7 +1294,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": true,
-        "text": "{Silence 2} [i] target opponent.",
+        "text": "<strong>Silence 2</strong> [i] target opponent.",
         "title": "Quiet Spirit",
         "type_code": "skill",
         "uniqueness": false
@@ -1319,7 +1319,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Target player may play a card for 1 less {Resource}. <(Action and power costs may not be reduced to 0 in this way.)>",
+        "text": "Target player may play a card for 1 less <strong>Resource</strong>. <small><em>(Action and power costs may not be reduced to 0 in this way.)</small></em>",
         "title": "Realization",
         "type_code": "skill",
         "uniqueness": false
@@ -1344,7 +1344,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Target player {Reveals} two cards from their hand. Draw a card.",
+        "text": "Target player <strong>Reveals</strong> two cards from their hand. Draw a card.",
         "title": "Reveal Spirit",
         "type_code": "skill",
         "uniqueness": false
@@ -1369,7 +1369,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Deal 4 damage to target enemy. They {Reveal} two cards from their hand. Then, deal damage to them equal to the number of {Revealed} cards in their hand.",
+        "text": "Deal 4 damage to target enemy. They <strong>Reveal</strong> two cards from their hand. Then, deal damage to them equal to the number of <strong>Revealed</strong> cards in their hand.",
         "title": "Riven of Spirit",
         "type_code": "skill",
         "uniqueness": false
@@ -1394,7 +1394,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": true,
-        "text": "{Travel} another target character up to two tiles.",
+        "text": "<strong>Travel</strong> another target character up to two tiles.",
         "title": "Spirit Journey",
         "type_code": "skill",
         "uniqueness": false
@@ -1469,7 +1469,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": true,
-        "text": "{Slow 2} [o] target opponent.",
+        "text": "<strong>Slow 2</strong> [o] target opponent.",
         "title": "Still Spirit",
         "type_code": "skill",
         "uniqueness": false
@@ -1494,7 +1494,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Discard two cards. You may play a card for {Free} [f].",
+        "text": "Discard two cards. You may play a card for <strong>Free</strong> [f].",
         "title": "True Focus",
         "type_code": "skill",
         "uniqueness": false
@@ -1544,7 +1544,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": true,
-        "text": "{Counter} target card unless its controller spends 3 {Resources}. If that card is {Countered}, heal yourself 3 HP.",
+        "text": "<strong>Counter</strong> target card unless its controller spends 3 <strong>Resources</strong>. If that card is <strong>Countered</strong>, heal yourself 3 HP.",
         "title": "Word of Peace",
         "type_code": "skill",
         "uniqueness": false
@@ -1569,7 +1569,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": true,
-        "text": "{Counter} target card unless its controller spends 4 {Resources}.",
+        "text": "<strong>Counter</strong> target card unless its controller spends 4 <strong>Resources</strong>.",
         "title": "Bewitch",
         "type_code": "skill",
         "uniqueness": false
@@ -1594,7 +1594,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": true,
-        "text": "{Travel} to target tile. {Silence 1} [i] yourself.",
+        "text": "<strong>Travel</strong> to target tile. <strong>Silence 1</strong> [i] yourself.",
         "title": "Black Flight",
         "type_code": "skill",
         "uniqueness": false
@@ -1619,7 +1619,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Attach} to target opponent. After you resolve an {Ability} card targeting them, deal 2 damage to them and heal yourself 1 HP.",
+        "text": "<strong>Attach</strong> to target opponent. After you resolve an <strong>Ability</strong> card targeting them, deal 2 damage to them and heal yourself 1 HP.",
         "title": "Black Magic",
         "type_code": "skill",
         "uniqueness": false
@@ -1644,7 +1644,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Attach} to target player. At the start of your turn, they draw a card. After they draw a card, deal 2 damage to them.",
+        "text": "<strong>Attach</strong> to target player. At the start of your turn, they draw a card. After they draw a card, deal 2 damage to them.",
         "title": "Curse of Dementia",
         "type_code": "skill",
         "uniqueness": false
@@ -1669,7 +1669,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "Deal 4 damage to target enemy. {Breach} - {Slow 1} [o] and {Silence 1} [i] them. <This card has Breach if the target has a revealed card in their hand.)>",
+        "text": "Deal 4 damage to target enemy. <strong>Breach</strong> - <strong>Slow 1</strong> [o] and <strong>Silence 1</strong> [i] them. <This card has Breach if the target has a revealed card in their hand.)</small></em>",
         "title": "Cursebolts",
         "type_code": "skill",
         "uniqueness": false
@@ -1694,7 +1694,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "Remove up to two instances of {Control} from yourself, then deal 3 damage to yourself.",
+        "text": "Remove up to two instances of <strong>Control</strong> from yourself, then deal 3 damage to yourself.",
         "title": "Dark Litany",
         "type_code": "skill",
         "uniqueness": false
@@ -1719,7 +1719,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": true,
-        "text": "{Travel} another target character up to one tile away from you. They {Reveal} a card from their hand.",
+        "text": "<strong>Travel</strong> another target character up to one tile away from you. They <strong>Reveal</strong> a card from their hand.",
         "title": "Featherwind",
         "type_code": "skill",
         "uniqueness": false
@@ -1744,7 +1744,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "{Hardcast} <(Only play this card if it is revealed. At the end of your turn, you may reveal one card with Hardcast.)> {Silence 1} [i] yourself.",
+        "text": "<strong>Hardcast</strong> <small><em>(Only play this card if it is revealed. At the end of your turn, you may reveal one card with Hardcast.)</small></em> <strong>Silence 1</strong> [i] yourself.",
         "title": "Feel the Signs",
         "type_code": "skill",
         "uniqueness": false
@@ -1769,7 +1769,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "Deal 9 damage to target enemy. {Breach} - {Silence 2} [i] them. <(This card has Breach if the target has a revealed card in their hand.)>",
+        "text": "Deal 9 damage to target enemy. <strong>Breach</strong> - <strong>Silence 2</strong> [i] them. <small><em>(This card has Breach if the target has a revealed card in their hand.)</small></em>",
         "title": "Harrow",
         "type_code": "skill",
         "uniqueness": false
@@ -1819,7 +1819,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "{Hardcast} <(Only play this card if it is revealed. At the end of your turn, you may reveal one card with Hardcast.)> Deal 7 damage to target enemy.",
+        "text": "<strong>Hardcast</strong> <small><em>(Only play this card if it is revealed. At the end of your turn, you may reveal one card with Hardcast.)</small></em> Deal 7 damage to target enemy.",
         "title": "Pain Hex",
         "type_code": "skill",
         "uniqueness": false
@@ -1844,7 +1844,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Deal 3 damage to target enemy. They {Reveal} a card from their hand.",
+        "text": "Deal 3 damage to target enemy. They <strong>Reveal</strong> a card from their hand.",
         "title": "Raven Bolt",
         "type_code": "skill",
         "uniqueness": false
@@ -1869,7 +1869,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Choose one: - {Destroy} target card. - Target player {Reveals} a card from their hand.",
+        "text": "Choose one: - <strong>Destroy</strong> target card. - Target player <strong>Reveals</strong> a card from their hand.",
         "title": "Raven Sight",
         "type_code": "skill",
         "uniqueness": false
@@ -1894,7 +1894,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Gain [n]. {Silence 1} [i] yourself.",
+        "text": "Gain [n]. <strong>Silence 1</strong> [i] yourself.",
         "title": "Ravenshift",
         "type_code": "skill",
         "uniqueness": false
@@ -1919,7 +1919,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Stun} target opponent. <(They losoe a resource of their choice.)> If a {Resource} is removed this way, heal yourself 4 HP and draw a card.",
+        "text": "<strong>Stun</strong> target opponent. <small><em>(They losoe a resource of their choice.)</small></em> If a <strong>Resource</strong> is removed this way, heal yourself 4 HP and draw a card.",
         "title": "Spirit Siphon",
         "type_code": "skill",
         "uniqueness": false
@@ -1944,7 +1944,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Hardcast} <(Only play this card if it is revealed. At the end of your turn, you may reveal one card with Hardcast.)> You may play target {Non-Attack} card from your discard targeting an opponent for {Free} [f].",
+        "text": "<strong>Hardcast</strong> <small><em>(Only play this card if it is revealed. At the end of your turn, you may reveal one card with Hardcast.)</small></em> You may play target <strong>Non-Attack</strong> card from your discard targeting an opponent for <strong>Free</strong> [f].",
         "title": "Twice Scorned",
         "type_code": "skill",
         "uniqueness": false
@@ -1969,7 +1969,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": true,
-        "text": "{Hardcast} <(Only play this card if it is revealed. At the end of your turn, you may reveal one card with Hardcast.)> {Slow 3} [o] target opponent.",
+        "text": "<strong>Hardcast</strong> <small><em>(Only play this card if it is revealed. At the end of your turn, you may reveal one card with Hardcast.)</small></em> <strong>Slow 3</strong> [o] target opponent.",
         "title": "Wilt Hex",
         "type_code": "skill",
         "uniqueness": false
@@ -1994,7 +1994,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Attach} to yourself. After you resolve your first {Ability} card during your turn, deal 2 damage to yourself and gain 2 [p].",
+        "text": "<strong>Attach</strong> to yourself. After you resolve your first <strong>Ability</strong> card during your turn, deal 2 damage to yourself and gain 2 [p].",
         "title": "Witchcraft",
         "type_code": "skill",
         "uniqueness": false
@@ -2019,7 +2019,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": true,
-        "text": "{Hardcast} <(Only play this card if it is revealed. At the end of your turn, you may reveal one card with Hardcast.)> {Disarm 3} [d] target opponent.",
+        "text": "<strong>Hardcast</strong> <small><em>(Only play this card if it is revealed. At the end of your turn, you may reveal one card with Hardcast.)</small></em> <strong>Disarm 3</strong> [d] target opponent.",
         "title": "Wither Hex",
         "type_code": "skill",
         "uniqueness": false
@@ -2044,7 +2044,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Attach} to target opponent. At the end of your turn, {Disarm 2} [d] them.",
+        "text": "<strong>Attach</strong> to target opponent. At the end of your turn, <strong>Disarm 2</strong> [d] them.",
         "title": "Withering Curse",
         "type_code": "skill",
         "uniqueness": false
@@ -2069,7 +2069,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": true,
-        "text": "{Hardcast} <(Only play this card if it is revealed. At the end of your turn, you may reveal one card with Hardcast.)> {Travel} to target tile.",
+        "text": "<strong>Hardcast</strong> <small><em>(Only play this card if it is revealed. At the end of your turn, you may reveal one card with Hardcast.)</small></em> <strong>Travel</strong> to target tile.",
         "title": "Bull Rush",
         "type_code": "skill",
         "uniqueness": false
@@ -2094,7 +2094,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "{Travel} to target tile. Make that tile {Difficult Terrain} [dt].",
+        "text": "<strong>Travel</strong> to target tile. Make that tile <strong>Difficult Terrain</strong> [dt].",
         "title": "Bumble",
         "type_code": "skill",
         "uniqueness": false
@@ -2119,7 +2119,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "{Hardcast} <(Only play this card if it is revealed. At the end of your turn, you may reveal one card with Hardcast.)> Deal 9 damage to target enemy.",
+        "text": "<strong>Hardcast</strong> <small><em>(Only play this card if it is revealed. At the end of your turn, you may reveal one card with Hardcast.)</small></em> Deal 9 damage to target enemy.",
         "title": "Clobber",
         "type_code": "skill",
         "uniqueness": false
@@ -2144,7 +2144,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Attach} to yourself. After you make {Terrain} in a tile, choose one for each opponent in it: - {Silence 1} [i] them. - {Disarm 1} [d] them.",
+        "text": "<strong>Attach</strong> to yourself. After you make <strong>Terrain</strong> in a tile, choose one for each opponent in it: - <strong>Silence 1</strong> [i] them. - <strong>Disarm 1</strong> [d] them.",
         "title": "Debris",
         "type_code": "skill",
         "uniqueness": false
@@ -2169,7 +2169,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Make target tile {Difficult Terrain} [dt].",
+        "text": "Make target tile <strong>Difficult Terrain</strong> [dt].",
         "title": "Demolish",
         "type_code": "skill",
         "uniqueness": false
@@ -2194,7 +2194,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Hardcast} <(Only play this card if it is revealed. At the end of your turn, you may reveal one card with Hardcast.)> {Attach} to yourself. At the start of your turn, gain 1 [a].",
+        "text": "<strong>Hardcast</strong> <small><em>(Only play this card if it is revealed. At the end of your turn, you may reveal one card with Hardcast.)</small></em> <strong>Attach</strong> to yourself. At the start of your turn, gain 1 [a].",
         "title": "Enrage",
         "type_code": "skill",
         "uniqueness": false
@@ -2219,7 +2219,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Attach} to target empty tile. After an enemy enters this tile, deal 4 damage to and {Slow 1} [o] them.",
+        "text": "<strong>Attach</strong> to target empty tile. After an enemy enters this tile, deal 4 damage to and <strong>Slow 1</strong> [o] them.",
         "title": "Fault Line",
         "type_code": "skill",
         "uniqueness": false
@@ -2244,7 +2244,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "You may play an {Attack} card targeting an enemy. After that card resolves, deal 4 damage to and {Stun} the target. <(They lose a resource of their choice.)>",
+        "text": "You may play an <strong>Attack</strong> card targeting an enemy. After that card resolves, deal 4 damage to and <strong>Stun</strong> the target. <small><em>(They lose a resource of their choice.)</small></em>",
         "title": "Giant's Strength",
         "type_code": "skill",
         "uniqueness": false
@@ -2269,7 +2269,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Attach} to yourself. After an {Attack} card resolves targeting you for the first time during each turn, gain 1 [p].",
+        "text": "<strong>Attach</strong> to yourself. After an <strong>Attack</strong> card resolves targeting you for the first time during each turn, gain 1 [p].",
         "title": "Giantskin",
         "type_code": "skill",
         "uniqueness": false
@@ -2294,7 +2294,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "{Slow 4} [o] target opponent.",
+        "text": "<strong>Slow 4</strong> [o] target opponent.",
         "title": "Grab",
         "type_code": "skill",
         "uniqueness": false
@@ -2319,7 +2319,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "{Hardcast} <(Only play this card if it is revealed. At the end of your turn, you may reveal one card with Hardcast.)> {Attach} to yourself until end of turn. {Attack} cards you play cost 1 less {Resource}. <(Action and power costs may not be reduced to zero in this way.)>",
+        "text": "<strong>Hardcast</strong> <small><em>(Only play this card if it is revealed. At the end of your turn, you may reveal one card with Hardcast.)</small></em> <strong>Attach</strong> to yourself until end of turn. <strong>Attack</strong> cards you play cost 1 less <strong>Resource</strong>. <small><em>(Action and power costs may not be reduced to zero in this way.)</small></em>",
         "title": "Infuriate",
         "type_code": "skill",
         "uniqueness": false
@@ -2344,7 +2344,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Choose one: - {Destroy} target card. - Remove target {Terrain} token. Then, heal yourself 3 HP.",
+        "text": "Choose one: - <strong>Destroy</strong> target card. - Remove target <strong>Terrain</strong> token. Then, heal yourself 3 HP.",
         "title": "Munch",
         "type_code": "skill",
         "uniqueness": false
@@ -2369,7 +2369,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Attach} to yourself. The {range} [r] of your {Attack} cards is 1. After you resolve your first {Attack} card targeting an enemy during your turn, deal 2 damage to and {Slow 1} [o] that enemy.",
+        "text": "<strong>Attach</strong> to yourself. The <strong>range</strong> [r] of your <strong>Attack</strong> cards is 1. After you resolve your first <strong>Attack</strong> card targeting an enemy during your turn, deal 2 damage to and <strong>Slow 1</strong> [o] that enemy.",
         "title": "Crystal Blade",
         "type_code": "skill",
         "uniqueness": false
@@ -2394,7 +2394,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Attach} to target opponent. At the end of your turn, {Slow 1} [o] them.",
+        "text": "<strong>Attach</strong> to target opponent. At the end of your turn, <strong>Slow 1</strong> [o] them.",
         "title": "Everfrost",
         "type_code": "skill",
         "uniqueness": false
@@ -2419,7 +2419,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": true,
-        "text": "{Stun} target opponent. <(They lose a resource of their choice.)> {Slow 1} [o] and {Disarm 1} [d] them.",
+        "text": "<strong>Stun</strong> target opponent. <small><em>(They lose a resource of their choice.)</small></em> <strong>Slow 1</strong> [o] and <strong>Disarm 1</strong> [d] them.",
         "title": "Flash Freeze",
         "type_code": "skill",
         "uniqueness": false
@@ -2444,7 +2444,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Draw a card. {Attach} to yourself. {Duration} - gain 1 [p]. <(The effect triggers at the end of your turn, removing an instance of Duration. When none are left, destroy this card.)>",
+        "text": "Draw a card. <strong>Attach</strong> to yourself. <strong>Duration</strong> - gain 1 [p]. <small><em>(The effect triggers at the end of your turn, removing an instance of Duration. When none are left, destroy this card.)</small></em>",
         "title": "Fractal Burst",
         "type_code": "skill",
         "uniqueness": false
@@ -2469,7 +2469,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": true,
-        "text": "{Counter} target card unless its controller spends 3 {Resources}. If that card is {Countered}, {Slow 2} [o] the card's controller.",
+        "text": "<strong>Counter</strong> target card unless its controller spends 3 <strong>Resources</strong>. If that card is <strong>Countered</strong>, <strong>Slow 2</strong> [o] the card's controller.",
         "title": "Frostsnatch",
         "type_code": "skill",
         "uniqueness": false
@@ -2494,7 +2494,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "Deal 4 damage to target enemy. {Silence 1} [i] them.",
+        "text": "Deal 4 damage to target enemy. <strong>Silence 1</strong> [i] them.",
         "title": "Glacialize",
         "type_code": "skill",
         "uniqueness": false
@@ -2519,7 +2519,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Deal 5 damage to target enemy and make target tile {Difficult Terrain} [dt]. {Advantage} - deal 3 more damage to them and make the tile they are in {Difficult Terrain} [dt]. <(This card has Advantage if the target is controlled.)>",
+        "text": "Deal 5 damage to target enemy and make target tile <strong>Difficult Terrain</strong> [dt]. <strong>Advantage</strong> - deal 3 more damage to them and make the tile they are in <strong>Difficult Terrain</strong> [dt]. <small><em>(This card has Advantage if the target is controlled.)</small></em>",
         "title": "Hailstorm",
         "type_code": "skill",
         "uniqueness": false
@@ -2544,7 +2544,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "Deal 3 damage to target enemy. {Advantage} - deal 2 more damage to them. <(This card has Advantage if the target is controlled.)>",
+        "text": "Deal 3 damage to target enemy. <strong>Advantage</strong> - deal 2 more damage to them. <small><em>(This card has Advantage if the target is controlled.)</small></em>",
         "title": "Icebolt",
         "type_code": "skill",
         "uniqueness": false
@@ -2569,7 +2569,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "Deal 6 damage to target enemy. {Advantage} - {Slow 2} [o] them. <(This card has Advantage if the target is controlled.)>",
+        "text": "Deal 6 damage to target enemy. <strong>Advantage</strong> - <strong>Slow 2</strong> [o] them. <small><em>(This card has Advantage if the target is controlled.)</small></em>",
         "title": "Rime Shock",
         "type_code": "skill",
         "uniqueness": false
@@ -2594,7 +2594,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Deal 8 damage to target enemy. {Advantage} - remove all {Control} affecting them, then deal 5 more damage to them. <(This card has Advantage if the target is controlled.)>",
+        "text": "Deal 8 damage to target enemy. <strong>Advantage</strong> - remove all <strong>Control</strong> affecting them, then deal 5 more damage to them. <small><em>(This card has Advantage if the target is controlled.)</small></em>",
         "title": "Shatter",
         "type_code": "skill",
         "uniqueness": false
@@ -2619,7 +2619,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "Deal 4 damage to target enemy. {Disarm 1} [d] them.",
+        "text": "Deal 4 damage to target enemy. <strong>Disarm 1</strong> [d] them.",
         "title": "Sleet Blast",
         "type_code": "skill",
         "uniqueness": false
@@ -2644,7 +2644,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": true,
-        "text": "{Travel} another target character up to one tile away from you. {Slow 1} [o] them.",
+        "text": "<strong>Travel</strong> another target character up to one tile away from you. <strong>Slow 1</strong> [o] them.",
         "title": "Snow Blast",
         "type_code": "skill",
         "uniqueness": false
@@ -2669,7 +2669,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Make target tile {Difficult Terrain} [dt]. Draw a card.",
+        "text": "Make target tile <strong>Difficult Terrain</strong> [dt]. Draw a card.",
         "title": "Snowslide",
         "type_code": "skill",
         "uniqueness": false
@@ -2694,7 +2694,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": true,
-        "text": "{Counter} target card controlled by a player in {Terrain} unless they pay 2 {Resources}.",
+        "text": "<strong>Counter</strong> target card controlled by a player in <strong>Terrain</strong> unless they pay 2 <strong>Resources</strong>.",
         "title": "Thin Ice",
         "type_code": "skill",
         "uniqueness": false
@@ -2719,7 +2719,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": true,
-        "text": "Choose one: - Return target {Attached} card to its owner's hand. - Make target tile {Difficult Terrain} [dt].",
+        "text": "Choose one: - Return target <strong>Attached</strong> card to its owner's hand. - Make target tile <strong>Difficult Terrain</strong> [dt].",
         "title": "Wintertide",
         "type_code": "skill",
         "uniqueness": false
@@ -2744,7 +2744,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Trigger your {Duration} effects as though your turn had just ended. <(The effects trigger, removing an instance of Duration on each of them.)>",
+        "text": "Trigger your <strong>Duration</strong> effects as though your turn had just ended. <small><em>(The effects trigger, removing an instance of Duration on each of them.)</small></em>",
         "title": "Bloom",
         "type_code": "skill",
         "uniqueness": false
@@ -2769,7 +2769,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "{Slow 3} [o] target opponent in {Terrain}.",
+        "text": "<strong>Slow 3</strong> [o] target opponent in <strong>Terrain</strong>.",
         "title": "Brambleroots",
         "type_code": "skill",
         "uniqueness": false
@@ -2794,7 +2794,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Seek} <(Look at the top card of your deck. Either draw that card, or put that card into your discard and draw the next card.)>",
+        "text": "<strong>Seek</strong> <small><em>(Look at the top card of your deck. Either draw that card, or put that card into your discard and draw the next card.)</small></em>",
         "title": "Druidic Lore",
         "type_code": "skill",
         "uniqueness": false
@@ -2819,7 +2819,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Deal 4 damage to target enemy. {Seek} <(Look at the top card of your deck. Either draw that card, or put that card into your discard and draw the next card.)>",
+        "text": "Deal 4 damage to target enemy. <strong>Seek</strong> <small><em>(Look at the top card of your deck. Either draw that card, or put that card into your discard and draw the next card.)</small></em>",
         "title": "Druidic Strike",
         "type_code": "skill",
         "uniqueness": false
@@ -2844,7 +2844,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "{Attach} to target empty tile near {Terrain}. After an enemy enters this tile, deal 7 damage to them and {Destroy} {Emerald Seed}.",
+        "text": "<strong>Attach</strong> to target empty tile near <strong>Terrain</strong>. After an enemy enters this tile, deal 7 damage to them and <strong>Destroy</strong> <strong>Emerald Seed</strong>.",
         "title": "Emerald Seed",
         "type_code": "skill",
         "uniqueness": false
@@ -2869,7 +2869,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Return target card with a {Resource} cost of 1 or less from your discard to your hand.",
+        "text": "Return target card with a <strong>Resource</strong> cost of 1 or less from your discard to your hand.",
         "title": "Memory of Yore",
         "type_code": "skill",
         "uniqueness": false
@@ -2894,7 +2894,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "{Attach} to target player. {Duration} - heal them 2 HP. <(The effect triggers at the end of your turn, removing an instance of Duration. When none are left, destroy this card.)>",
+        "text": "<strong>Attach</strong> to target player. <strong>Duration</strong> - heal them 2 HP. <small><em>(The effect triggers at the end of your turn, removing an instance of Duration. When none are left, destroy this card.)</small></em>",
         "title": "Replenish",
         "type_code": "skill",
         "uniqueness": false
@@ -2919,7 +2919,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Make up to two target tiles {Difficult Terrain} [dt].",
+        "text": "Make up to two target tiles <strong>Difficult Terrain</strong> [dt].",
         "title": "Reseed",
         "type_code": "skill",
         "uniqueness": false
@@ -2944,7 +2944,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "Choose one: - {Destroy} target card. - Return target {Ability} card from your discard to your hand.",
+        "text": "Choose one: - <strong>Destroy</strong> target card. - Return target <strong>Ability</strong> card from your discard to your hand.",
         "title": "Restoration",
         "type_code": "skill",
         "uniqueness": false
@@ -2969,7 +2969,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": true,
-        "text": "{Counter} target card unless its controller spends 3 {Resources}. {Seek} <(Look at the top card of your deck. Either draw that card, or put that card into your discard and draw the next card.)>",
+        "text": "<strong>Counter</strong> target card unless its controller spends 3 <strong>Resources</strong>. <strong>Seek</strong> <small><em>(Look at the top card of your deck. Either draw that card, or put that card into your discard and draw the next card.)</small></em>",
         "title": "Return to Myth",
         "type_code": "skill",
         "uniqueness": false
@@ -2994,7 +2994,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "{Attach} to target player. {Duration} - heal them 3 HP. <(The effect triggers at the end of your turn, removing an instance of Duration. When none are left, destroy this card.)>",
+        "text": "<strong>Attach</strong> to target player. <strong>Duration</strong> - heal them 3 HP. <small><em>(The effect triggers at the end of your turn, removing an instance of Duration. When none are left, destroy this card.)</small></em>",
         "title": "Revitalize",
         "type_code": "skill",
         "uniqueness": false
@@ -3019,7 +3019,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Deal 6 damage to target enemy. You may return an {Attack} card with a {Resource} cost of 1 or less from your discard to your hand.",
+        "text": "Deal 6 damage to target enemy. You may return an <strong>Attack</strong> card with a <strong>Resource</strong> cost of 1 or less from your discard to your hand.",
         "title": "Slash of Yore",
         "type_code": "skill",
         "uniqueness": false
@@ -3044,7 +3044,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Attach} to target empty tile. At the end of your turn, if you are near {Standing Stones}, {Seek}. <(Look at the top card of your deck. Either draw that card, or put that card into your discard and draw the next card.)>",
+        "text": "<strong>Attach</strong> to target empty tile. At the end of your turn, if you are near <strong>Standing Stones</strong>, <strong>Seek</strong>. <small><em>(Look at the top card of your deck. Either draw that card, or put that card into your discard and draw the next card.)</small></em>",
         "title": "Standing Stones",
         "type_code": "skill",
         "uniqueness": false
@@ -3069,7 +3069,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": true,
-        "text": "Choose one: - {Travel} up to two tiles. - Deal 6 damage to target enemy.",
+        "text": "Choose one: - <strong>Travel</strong> up to two tiles. - Deal 6 damage to target enemy.",
         "title": "Thornpath",
         "type_code": "skill",
         "uniqueness": false
@@ -3094,7 +3094,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Attach} to yourself. At the end of your turn, make target tile {Difficult Terrain} [dt].",
+        "text": "<strong>Attach</strong> to yourself. At the end of your turn, make target tile <strong>Difficult Terrain</strong> [dt].",
         "title": "Thrive",
         "type_code": "skill",
         "uniqueness": false
@@ -3119,7 +3119,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "Deal 7 damage to target enemy. {Attach} to yourself. {Duration} - heal yourself 2 HP. <(The effect triggers at the end of your turn, removing an instance of Duration. When none are left, destroy this card.)>",
+        "text": "Deal 7 damage to target enemy. <strong>Attach</strong> to yourself. <strong>Duration</strong> - heal yourself 2 HP. <small><em>(The effect triggers at the end of your turn, removing an instance of Duration. When none are left, destroy this card.)</small></em>",
         "title": "Verdant Slash",
         "type_code": "skill",
         "uniqueness": false
@@ -3144,7 +3144,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "Deal 4 damage to target enemy. {Attach} to yourself. {Duration} - heal yourself 1 HP. <(The effect triggers at the end of your turn, removing an instance of Duration. When none are left, destroy this card.)>",
+        "text": "Deal 4 damage to target enemy. <strong>Attach</strong> to yourself. <strong>Duration</strong> - heal yourself 1 HP. <small><em>(The effect triggers at the end of your turn, removing an instance of Duration. When none are left, destroy this card.)</small></em>",
         "title": "Verdant Strike",
         "type_code": "skill",
         "uniqueness": false
@@ -3169,7 +3169,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": true,
-        "text": "{Attach} to target empty tile. At the start of your turn, each opponent may pay 1 {Resource}. If they don't, {Travel} them to {Vine Snap}. After {any} character enters this tile, deal 4 damage to them and {Destroy} {Vine Snap}.",
+        "text": "<strong>Attach</strong> to target empty tile. At the start of your turn, each opponent may pay 1 <strong>Resource</strong>. If they don't, <strong>Travel</strong> them to <strong>Vine Snap</strong>. After <strong>any</strong> character enters this tile, deal 4 damage to them and <strong>Destroy</strong> <strong>Vine Snap</strong>.",
         "title": "Vine Snap",
         "type_code": "skill",
         "uniqueness": false
@@ -3194,7 +3194,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "{Travel} to target tile.",
+        "text": "<strong>Travel</strong> to target tile.",
         "title": "Wispform",
         "type_code": "skill",
         "uniqueness": false
@@ -3219,7 +3219,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": true,
-        "text": "{Silence 2} [i] target opponent.",
+        "text": "<strong>Silence 2</strong> [i] target opponent.",
         "title": "Wonder",
         "type_code": "skill",
         "uniqueness": false
@@ -3244,7 +3244,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "{Attach} to target empty tile. At the start of your turn, if you're near {Banner of the Warrior}, gain 1 [p].",
+        "text": "<strong>Attach</strong> to target empty tile. At the start of your turn, if you're near <strong>Banner of the Warrior</strong>, gain 1 [p].",
         "title": "Banner of the Warrior",
         "type_code": "skill",
         "uniqueness": false
@@ -3269,7 +3269,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "If you've resolved an {Attack} card this turn, gain 1 more [p].",
+        "text": "If you've resolved an <strong>Attack</strong> card this turn, gain 1 more [p].",
         "title": "Battle Lust",
         "type_code": "skill",
         "uniqueness": false
@@ -3294,7 +3294,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": true,
-        "text": "Target player gains {Mitigate 4}. <(Mitigate takes damage before HP. A player's Mitigate lasts until the start of their next turn.)>",
+        "text": "Target player gains <strong>Mitigate 4</strong>. <small><em>(Mitigate takes damage before HP. A player's Mitigate lasts until the start of their next turn.)</small></em>",
         "title": "Block",
         "type_code": "skill",
         "uniqueness": false
@@ -3319,7 +3319,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "Deal 5 damage to target enemy. Gain {Mitigate 2}. <(Your Mitigate takes damage before your HP. Lasts until the start of your next turn.)>",
+        "text": "Deal 5 damage to target enemy. Gain <strong>Mitigate 2</strong>. <small><em>(Your Mitigate takes damage before your HP. Lasts until the start of your next turn.)</small></em>",
         "title": "Careful Strike",
         "type_code": "skill",
         "uniqueness": false
@@ -3344,7 +3344,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "{Travel} another target player to the nearest tile next to you unless they pay 3 {Resources}.",
+        "text": "<strong>Travel</strong> another target player to the nearest tile next to you unless they pay 3 <strong>Resources</strong>.",
         "title": "Challenge",
         "type_code": "skill",
         "uniqueness": false
@@ -3369,7 +3369,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": true,
-        "text": "{Travel} to the nearest tile next to another target character. {Stun} them. <(They lose a resource of their choice.)>",
+        "text": "<strong>Travel</strong> to the nearest tile next to another target character. <strong>Stun</strong> them. <small><em>(They lose a resource of their choice.)</small></em>",
         "title": "Charge",
         "type_code": "skill",
         "uniqueness": false
@@ -3394,7 +3394,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "Deal 5 damage to target enemy. {Slow 1} [o] them.",
+        "text": "Deal 5 damage to target enemy. <strong>Slow 1</strong> [o] them.",
         "title": "Cripple",
         "type_code": "skill",
         "uniqueness": false
@@ -3419,7 +3419,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Choose one: - {Destroy} target card. - {Stun} target opponent. <(They lose a resource of their choice.)>",
+        "text": "Choose one: - <strong>Destroy</strong> target card. - <strong>Stun</strong> target opponent. <small><em>(They lose a resource of their choice.)</small></em>",
         "title": "Crush",
         "type_code": "skill",
         "uniqueness": false
@@ -3444,7 +3444,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "Deal 8 damage to target enemy. {Frenzy} - deal 5 more damage to them. <(This card has Frenzy if a player has used their second wind.)>",
+        "text": "Deal 8 damage to target enemy. <strong>Frenzy</strong> - deal 5 more damage to them. <small><em>(This card has Frenzy if a player has used their second wind.)</small></em>",
         "title": "Dismember",
         "type_code": "skill",
         "uniqueness": false
@@ -3469,7 +3469,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": true,
-        "text": "{Counter} target card targeting you unless its controller pays 3 {Resources}.",
+        "text": "<strong>Counter</strong> target card targeting you unless its controller pays 3 <strong>Resources</strong>.",
         "title": "Duck",
         "type_code": "skill",
         "uniqueness": false
@@ -3494,7 +3494,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": true,
-        "text": "{Counter} target {Non-Attack} card unless its controller spends 2 {Resources}.",
+        "text": "<strong>Counter</strong> target <strong>Non-Attack</strong> card unless its controller spends 2 <strong>Resources</strong>.",
         "title": "Fight with Honor",
         "type_code": "skill",
         "uniqueness": false
@@ -3519,7 +3519,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": true,
-        "text": "{Disarm 2} [d] target opponent.",
+        "text": "<strong>Disarm 2</strong> [d] target opponent.",
         "title": "Goad",
         "type_code": "skill",
         "uniqueness": false
@@ -3544,7 +3544,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "Only play {Intimidate} if you've resolved an {Attack} card this turn. {Disarm 4} [d] target opponent.",
+        "text": "Only play <strong>Intimidate</strong> if you've resolved an <strong>Attack</strong> card this turn. <strong>Disarm 4</strong> [d] target opponent.",
         "title": "Intimidate",
         "type_code": "skill",
         "uniqueness": false
@@ -3569,7 +3569,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "Deal 7 damage to target enemy. {Slow 3} [o] them.",
+        "text": "Deal 7 damage to target enemy. <strong>Slow 3</strong> [o] them.",
         "title": "Lame",
         "type_code": "skill",
         "uniqueness": false
@@ -3594,7 +3594,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": true,
-        "text": "Deal 5 damage to target enemy. {Disarm 2} [d] them. {Stun} them. <(They lose a resource of their choice.)>",
+        "text": "Deal 5 damage to target enemy. <strong>Disarm 2</strong> [d] them. <strong>Stun</strong> them. <small><em>(They lose a resource of their choice.)</small></em>",
         "title": "Pommel Strike",
         "type_code": "skill",
         "uniqueness": false
@@ -3619,7 +3619,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Gain [n]. {Frenzy} - gain another [n]. <(This card has Frenzy if a player has used their second wind.)>",
+        "text": "Gain [n]. <strong>Frenzy</strong> - gain another [n]. <small><em>(This card has Frenzy if a player has used their second wind.)</small></em>",
         "title": "Seize the Day",
         "type_code": "skill",
         "uniqueness": false
@@ -3644,7 +3644,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "Deal 4 damage to target enemy. {Frenzy} - gain 1 more [p]. <(This card has Frenzy if a player has used their second wind.)>",
+        "text": "Deal 4 damage to target enemy. <strong>Frenzy</strong> - gain 1 more [p]. <small><em>(This card has Frenzy if a player has used their second wind.)</small></em>",
         "title": "Sever",
         "type_code": "skill",
         "uniqueness": false
@@ -3669,7 +3669,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "Remove up to two instances of {Control} from yourself and gain {Mitigate 2}. <(Your Mitigate takes damage before your HP. Lasts until the start of your next turn.)>",
+        "text": "Remove up to two instances of <strong>Control</strong> from yourself and gain <strong>Mitigate 2</strong>. <small><em>(Your Mitigate takes damage before your HP. Lasts until the start of your next turn.)</small></em>",
         "title": "Tenacity",
         "type_code": "skill",
         "uniqueness": false
@@ -3694,7 +3694,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Deal 10 damage to target enemy. {Stun} them. <(They lose a resource of their choice.)>",
+        "text": "Deal 10 damage to target enemy. <strong>Stun</strong> them. <small><em>(They lose a resource of their choice.)</small></em>",
         "title": "Warrior's Slash",
         "type_code": "skill",
         "uniqueness": false
@@ -3744,7 +3744,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "Deal 5 damage to target enemy. {Silence 2} [i] them. {Breach} - deal 2 more damage to them. <(This card has Breach if the target has a revealed card in their hand.)>",
+        "text": "Deal 5 damage to target enemy. <strong>Silence 2</strong> [i] them. <strong>Breach</strong> - deal 2 more damage to them. <small><em>(This card has Breach if the target has a revealed card in their hand.)</small></em>",
         "title": "Cease to Be",
         "type_code": "skill",
         "uniqueness": false
@@ -3769,7 +3769,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Slow 2} [o] and {Disarm 2} [d] target opponent. They {Reveal} two cards from their hand.",
+        "text": "<strong>Slow 2</strong> [o] and <strong>Disarm 2</strong> [d] target opponent. They <strong>Reveal</strong> two cards from their hand.",
         "title": "Crackle",
         "type_code": "skill",
         "uniqueness": false
@@ -3794,7 +3794,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": true,
-        "text": "Deal 4 damage to yourself. {Attach} to yourself until the end of the turn. You can't be targeted by enemies. After you play a card, {Destroy} {Disperse}.",
+        "text": "Deal 4 damage to yourself. <strong>Attach</strong> to yourself until the end of the turn. You can't be targeted by enemies. After you play a card, <strong>Destroy</strong> <strong>Disperse</strong>.",
         "title": "Disperse",
         "type_code": "skill",
         "uniqueness": false
@@ -3819,7 +3819,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "Deal 10 damage to target enemy plus 2 more damage for each {Revealed} card in their hand.",
+        "text": "Deal 10 damage to target enemy plus 2 more damage for each <strong>Revealed</strong> card in their hand.",
         "title": "End",
         "type_code": "skill",
         "uniqueness": false
@@ -3844,7 +3844,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Target enemy {Reveals} two cards from their hand. Then, you may have them discard a {Revealed} card of your choice.",
+        "text": "Target enemy <strong>Reveals</strong> two cards from their hand. Then, you may have them discard a <strong>Revealed</strong> card of your choice.",
         "title": "Intrude",
         "type_code": "skill",
         "uniqueness": false
@@ -3869,7 +3869,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Each player draws a card, then {Reveals} a card from their hand.",
+        "text": "Each player draws a card, then <strong>Reveals</strong> a card from their hand.",
         "title": "Pulse",
         "type_code": "skill",
         "uniqueness": false
@@ -3919,7 +3919,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Draw a card. {Attach} to yourself. At the start of your turn, heal yourself 1 HP.",
+        "text": "Draw a card. <strong>Attach</strong> to yourself. At the start of your turn, heal yourself 1 HP.",
         "title": "Stabilize",
         "type_code": "skill",
         "uniqueness": false
@@ -3944,7 +3944,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "Remove up to two instances of {Control} from yourself. Draw a card.",
+        "text": "Remove up to two instances of <strong>Control</strong> from yourself. Draw a card.",
         "title": "Unbind",
         "type_code": "skill",
         "uniqueness": false
@@ -3969,7 +3969,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Choose {two}: - {Destroy} target card. - Deal 3 damage to target enemy. You may choose the same mode twice.",
+        "text": "Choose <strong>two</strong>: - <strong>Destroy</strong> target card. - Deal 3 damage to target enemy. You may choose the same mode twice.",
         "title": "Unmake",
         "type_code": "skill",
         "uniqueness": false
@@ -3994,7 +3994,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "{Slow 1} [o] target opponent. {Disarm 2} [d] them.",
+        "text": "<strong>Slow 1</strong> [o] target opponent. <strong>Disarm 2</strong> [d] them.",
         "title": "Bind",
         "type_code": "skill",
         "uniqueness": false
@@ -4044,7 +4044,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": true,
-        "text": "{Counter} target card unless its controller pays 3 {Resources}.",
+        "text": "<strong>Counter</strong> target card unless its controller pays 3 <strong>Resources</strong>.",
         "title": "Pacify",
         "type_code": "skill",
         "uniqueness": false
@@ -4069,7 +4069,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "Deal 3 damage to target enemy. {Silence 1} [i] and {Disarm 1} [d] them.",
+        "text": "Deal 3 damage to target enemy. <strong>Silence 1</strong> [i] and <strong>Disarm 1</strong> [d] them.",
         "title": "Placate",
         "type_code": "skill",
         "uniqueness": false
@@ -4119,7 +4119,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": true,
-        "text": "Deal 5 damage to target enemy. Choose one: - {Slow 2} [o] them. - {Silence 2} [i] them.",
+        "text": "Deal 5 damage to target enemy. Choose one: - <strong>Slow 2</strong> [o] them. - <strong>Silence 2</strong> [i] them.",
         "title": "Repercussion",
         "type_code": "skill",
         "uniqueness": false
@@ -4144,7 +4144,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": true,
-        "text": "Choose one: - {Destroy} target card. - Draw a card.",
+        "text": "Choose one: - <strong>Destroy</strong> target card. - Draw a card.",
         "title": "Repurpose",
         "type_code": "skill",
         "uniqueness": false
@@ -4169,7 +4169,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Attach} to target player. At the start of their turn, they gain [n].",
+        "text": "<strong>Attach</strong> to target player. At the start of their turn, they gain [n].",
         "title": "Tranquility",
         "type_code": "skill",
         "uniqueness": false
@@ -4194,7 +4194,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "Remove up to two instances of {Control} from yourself.",
+        "text": "Remove up to two instances of <strong>Control</strong> from yourself.",
         "title": "Uninhibit",
         "type_code": "skill",
         "uniqueness": false
@@ -4269,7 +4269,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": true,
-        "text": "{Attach} to target opponent until the start of your next turn. If you would receive {Control}, instead they receive the {Control}. Then, {Destroy} {Dark Sigil}.",
+        "text": "<strong>Attach</strong> to target opponent until the start of your next turn. If you would receive <strong>Control</strong>, instead they receive the <strong>Control</strong>. Then, <strong>Destroy</strong> <strong>Dark Sigil</strong>.",
         "title": "Dark Sigil",
         "type_code": "skill",
         "uniqueness": false
@@ -4294,7 +4294,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "{Hardcast} <(Only play this card if it is revealed. At the end of your turn, you may reveal one card with Hardcast.)> {Doom Hex} costs 1 less [p] for each other {Revealed} card in your hand. <(The power cost may not be reduced to 0 this way.)> Deal 12 damage to target enemy.",
+        "text": "<strong>Hardcast</strong> <small><em>(Only play this card if it is revealed. At the end of your turn, you may reveal one card with Hardcast.)</small></em> <strong>Doom Hex</strong> costs 1 less [p] for each other <strong>Revealed</strong> card in your hand. <small><em>(The power cost may not be reduced to 0 this way.)</small></em> Deal 12 damage to target enemy.",
         "title": "Doom Hex",
         "type_code": "skill",
         "uniqueness": false
@@ -4319,7 +4319,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "Deal 5 damage to target enemy. {Silence 2} [i] yourself.",
+        "text": "Deal 5 damage to target enemy. <strong>Silence 2</strong> [i] yourself.",
         "title": "Ebon Bolt",
         "type_code": "skill",
         "uniqueness": false
@@ -4344,7 +4344,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": true,
-        "text": "Choose one: - {Slow 1} [o] target opponent. - {Disarm 1} [d] target opponent. {Silence 1} [i] yourself.",
+        "text": "Choose one: - <strong>Slow 1</strong> [o] target opponent. - <strong>Disarm 1</strong> [d] target opponent. <strong>Silence 1</strong> [i] yourself.",
         "title": "Ill Omen",
         "type_code": "skill",
         "uniqueness": false
@@ -4394,7 +4394,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Deal 4 damage to target enemy. You may play an {Ability} card from your discard targeting them.",
+        "text": "Deal 4 damage to target enemy. You may play an <strong>Ability</strong> card from your discard targeting them.",
         "title": "Nightmare",
         "type_code": "skill",
         "uniqueness": false
@@ -4444,7 +4444,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Hardcast} <(Only play this card if it is revealed. At the end of your turn, you may reveal one card with Hardcast.)> Choose one: - {Destroy} target card. - Heal yourself 4 HP. - Gain 1 more [p].",
+        "text": "<strong>Hardcast</strong> <small><em>(Only play this card if it is revealed. At the end of your turn, you may reveal one card with Hardcast.)</small></em> Choose one: - <strong>Destroy</strong> target card. - Heal yourself 4 HP. - Gain 1 more [p].",
         "title": "Shadowfeed",
         "type_code": "skill",
         "uniqueness": false
@@ -4469,7 +4469,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Attach} to target opponent. At the start of your turn, {Stun} them. <(They lose a resource of their choice.)> After a {Resource} is removed in this way, gain 1 [p].",
+        "text": "<strong>Attach</strong> to target opponent. At the start of your turn, <strong>Stun</strong> them. <small><em>(They lose a resource of their choice.)</small></em> After a <strong>Resource</strong> is removed in this way, gain 1 [p].",
         "title": "Taint",
         "type_code": "skill",
         "uniqueness": false
@@ -4494,7 +4494,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Attach} to target opponent. After you attach another card to them, deal 3 damage to and {Disarm 1} [d] them.",
+        "text": "<strong>Attach</strong> to target opponent. After you attach another card to them, deal 3 damage to and <strong>Disarm 1</strong> [d] them.",
         "title": "Blackfire Scars",
         "type_code": "skill",
         "uniqueness": false
@@ -4519,7 +4519,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "{Slow 1} [o], {Silence 1} [i], and {Disarm 1} [d] target opponent. Then, apply two more instances of a {Control} type of your choice to them.",
+        "text": "<strong>Slow 1</strong> [o], <strong>Silence 1</strong> [i], and <strong>Disarm 1</strong> [d] target opponent. Then, apply two more instances of a <strong>Control</strong> type of your choice to them.",
         "title": "Curse of Entropy",
         "type_code": "skill",
         "uniqueness": false
@@ -4544,7 +4544,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Attach} to target opponent. After they receive {Control}, deal 1 damage to them for each instance of {Control} they receive.",
+        "text": "<strong>Attach</strong> to target opponent. After they receive <strong>Control</strong>, deal 1 damage to them for each instance of <strong>Control</strong> they receive.",
         "title": "Curse of Hysteria",
         "type_code": "skill",
         "uniqueness": false
@@ -4569,7 +4569,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Attach} to target opponent. After they resolve their first card during their turn, they discard a card. If they can't, deal 4 damage to them.",
+        "text": "<strong>Attach</strong> to target opponent. After they resolve their first card during their turn, they discard a card. If they can't, deal 4 damage to them.",
         "title": "Curse of Mania",
         "type_code": "skill",
         "uniqueness": false
@@ -4594,7 +4594,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Target opponent {Reveals} a card from their hand. {Slow 1} [o] them.",
+        "text": "Target opponent <strong>Reveals</strong> a card from their hand. <strong>Slow 1</strong> [o] them.",
         "title": "Ebon Feint",
         "type_code": "skill",
         "uniqueness": false
@@ -4619,7 +4619,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "Apply an instance of a {Control} type of your choice to target opponent.",
+        "text": "Apply an instance of a <strong>Control</strong> type of your choice to target opponent.",
         "title": "Ebon Powder",
         "type_code": "skill",
         "uniqueness": false
@@ -4644,7 +4644,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "You may play {Cursed Dagger} for {Free} [f]. This doesn't count towards your {Cursed Dagger} limit per turn.",
+        "text": "You may play <strong>Cursed Dagger</strong> for <strong>Free</strong> [f]. This doesn't count towards your <strong>Cursed Dagger</strong> limit per turn.",
         "title": "Heartseeker",
         "type_code": "skill",
         "uniqueness": false
@@ -4669,7 +4669,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Deal 4 damage to target enemy. {Breach} - you may play {Cursed Dagger} for {Free} [f]. This doesn't count towards your {Cursed Dagger} limit per turn. <(This card has Breach if the target has a revealed card in their hand.)>",
+        "text": "Deal 4 damage to target enemy. <strong>Breach</strong> - you may play <strong>Cursed Dagger</strong> for <strong>Free</strong> [f]. This doesn't count towards your <strong>Cursed Dagger</strong> limit per turn. <small><em>(This card has Breach if the target has a revealed card in their hand.)</small></em>",
         "title": "Ravenpierce",
         "type_code": "skill",
         "uniqueness": false
@@ -4694,7 +4694,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": true,
-        "text": "{Travel} to target tile.",
+        "text": "<strong>Travel</strong> to target tile.",
         "title": "Shadowburst",
         "type_code": "skill",
         "uniqueness": false
@@ -4719,7 +4719,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Deal 2 damage to target enemy. {Breach} - {Stun} them. <(They lose a resource of their choice.)>",
+        "text": "Deal 2 damage to target enemy. <strong>Breach</strong> - <strong>Stun</strong> them. <small><em>(They lose a resource of their choice.)</small></em>",
         "title": "Wicked Stab",
         "type_code": "skill",
         "uniqueness": false
@@ -4744,7 +4744,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": true,
-        "text": "{Hardcast} <(Only play this card if it is revealed. At the end of your turn, you may reveal one card with Hardcast.)> {Travel} to the nearest tile next to target enemy. Deal 17 damage to them. {Travel} them one tile away from you.",
+        "text": "<strong>Hardcast</strong> <small><em>(Only play this card if it is revealed. At the end of your turn, you may reveal one card with Hardcast.)</small></em> <strong>Travel</strong> to the nearest tile next to target enemy. Deal 17 damage to them. <strong>Travel</strong> them one tile away from you.",
         "title": "Battering Ram",
         "type_code": "skill",
         "uniqueness": false
@@ -4769,7 +4769,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "{Hardcast} <(Only play this card if it is revealed. At the end of your turn, you may reveal one card with Hardcast.)> Gain [n]. After an {Attack} card resolves targeting you, you may {Reveal} {Bellow}.",
+        "text": "<strong>Hardcast</strong> <small><em>(Only play this card if it is revealed. At the end of your turn, you may reveal one card with Hardcast.)</small></em> Gain [n]. After an <strong>Attack</strong> card resolves targeting you, you may <strong>Reveal</strong> <strong>Bellow</strong>.",
         "title": "Bellow",
         "type_code": "skill",
         "uniqueness": false
@@ -4794,7 +4794,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Choose one: - {Destroy} target card. - Remove target {Terrain} token. Then, heal yourself 7 HP.",
+        "text": "Choose one: - <strong>Destroy</strong> target card. - Remove target <strong>Terrain</strong> token. Then, heal yourself 7 HP.",
         "title": "Crunch",
         "type_code": "skill",
         "uniqueness": false
@@ -4819,7 +4819,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "{Attach} to target empty tile. At the start of your turn, if you're near {Banner of the Jarl}, remove up to two instances of {Control} from yourself.",
+        "text": "<strong>Attach</strong> to target empty tile. At the start of your turn, if you're near <strong>Banner of the Jarl</strong>, remove up to two instances of <strong>Control</strong> from yourself.",
         "title": "Banner of the Jarl",
         "type_code": "skill",
         "uniqueness": false
@@ -4844,7 +4844,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": true,
-        "text": "Gain {Mitigate 3}. <(Mitigate takes damage before your HP. Lasts until the start of your next turn.)>",
+        "text": "Gain <strong>Mitigate 3</strong>. <small><em>(Mitigate takes damage before your HP. Lasts until the start of your next turn.)</small></em>",
         "title": "Bladeblock",
         "type_code": "skill",
         "uniqueness": false
@@ -4869,7 +4869,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "Deal 12 damage to target enemy. {Silence 2} [i] them.",
+        "text": "Deal 12 damage to target enemy. <strong>Silence 2</strong> [i] them.",
         "title": "Conquer",
         "type_code": "skill",
         "uniqueness": false
@@ -4894,7 +4894,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Attach} to target opponent. At the end of your turn, {Silence 1} [i] and {Stun} them. <(They lose a resource of their choice.)>",
+        "text": "<strong>Attach</strong> to target opponent. At the end of your turn, <strong>Silence 1</strong> [i] and <strong>Stun</strong> them. <small><em>(They lose a resource of their choice.)</small></em>",
         "title": "Dominance",
         "type_code": "skill",
         "uniqueness": false
@@ -4919,7 +4919,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": true,
-        "text": "{Travel} to the nearest tile next to another target character. Then, you may play {Runic Slaughter} targeting them for {Free} [f]. This doesn't count towards your {Runic Slaughter} limit per turn.",
+        "text": "<strong>Travel</strong> to the nearest tile next to another target character. Then, you may play <strong>Runic Slaughter</strong> targeting them for <strong>Free</strong> [f]. This doesn't count towards your <strong>Runic Slaughter</strong> limit per turn.",
         "title": "On the Hunt",
         "type_code": "skill",
         "uniqueness": false
@@ -4944,7 +4944,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "Deal 6 damage to target enemy. {Attach} {Rune of Decay} to them. {Duration} - {Silence 1} [i] them. <(Apply an instance of silence to them at the end of your turn, removing an instance of Duration. When none are left, destroy this card.)>",
+        "text": "Deal 6 damage to target enemy. <strong>Attach</strong> <strong>Rune of Decay</strong> to them. <strong>Duration</strong> - <strong>Silence 1</strong> [i] them. <small><em>(Apply an instance of silence to them at the end of your turn, removing an instance of Duration. When none are left, destroy this card.)</small></em>",
         "title": "Rune of Decay",
         "type_code": "skill",
         "uniqueness": false
@@ -4969,7 +4969,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "Choose one: - {Silence 1} [i] target opponent. - Deal 2 damage to target enemy.",
+        "text": "Choose one: - <strong>Silence 1</strong> [i] target opponent. - Deal 2 damage to target enemy.",
         "title": "Runecarve",
         "type_code": "skill",
         "uniqueness": false
@@ -4994,7 +4994,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Attach} to target opponent. After you resolve your first {Attack} card targeting them during your turn, deal 2 damage to and {Silence 1} [i] them.",
+        "text": "<strong>Attach</strong> to target opponent. After you resolve your first <strong>Attack</strong> card targeting them during your turn, deal 2 damage to and <strong>Silence 1</strong> [i] them.",
         "title": "Runecarve Etch",
         "type_code": "skill",
         "uniqueness": false
@@ -5019,7 +5019,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "{Slow 1} [o] target opponent. {Silence 1} [i] them.",
+        "text": "<strong>Slow 1</strong> [o] target opponent. <strong>Silence 1</strong> [i] them.",
         "title": "Runeshock",
         "type_code": "skill",
         "uniqueness": false
@@ -5069,7 +5069,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Attach} to target opponent. After you resolve your first {Attack} card targeting them during your turn, gain [n].",
+        "text": "<strong>Attach</strong> to target opponent. After you resolve your first <strong>Attack</strong> card targeting them during your turn, gain [n].",
         "title": "Runesight Etch",
         "type_code": "skill",
         "uniqueness": false
@@ -5094,7 +5094,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Choose one: - {Destroy} target card. - Target opponent discards two cards.",
+        "text": "Choose one: - <strong>Destroy</strong> target card. - Target opponent discards two cards.",
         "title": "Spoil",
         "type_code": "skill",
         "uniqueness": false
@@ -5119,7 +5119,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Attach} to target empty tile. At the end of your turn, apply an instance of a {Control} type of your choice to each enemy near {Waystone}.",
+        "text": "<strong>Attach</strong> to target empty tile. At the end of your turn, apply an instance of a <strong>Control</strong> type of your choice to each enemy near <strong>Waystone</strong>.",
         "title": "Waystone",
         "type_code": "skill",
         "uniqueness": false
@@ -5169,7 +5169,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": true,
-        "text": "{Counter} target card targeting you unless its controller pays 3 {Resources}. If that card is {Countered}, you may play that card for {Free} [f].",
+        "text": "<strong>Counter</strong> target card targeting you unless its controller pays 3 <strong>Resources</strong>. If that card is <strong>Countered</strong>, you may play that card for <strong>Free</strong> [f].",
         "title": "Reflect",
         "type_code": "skill",
         "uniqueness": false
@@ -5194,7 +5194,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": true,
-        "text": "{Disarm 1} [d] target opponent. Gain {Mitigate 2}.",
+        "text": "<strong>Disarm 1</strong> [d] target opponent. Gain <strong>Mitigate 2</strong>.",
         "title": "Shield Bash",
         "type_code": "skill",
         "uniqueness": false
@@ -5219,7 +5219,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "Choose one: - {Destroy} target card {attached} to you. - {Counter} target {Attack} card targeting you unless its controller spends 1 {Resource}.",
+        "text": "Choose one: - <strong>Destroy</strong> target card <strong>attached</strong> to you. - <strong>Counter</strong> target <strong>Attack</strong> card targeting you unless its controller spends 1 <strong>Resource</strong>.",
         "title": "Shrug Off",
         "type_code": "skill",
         "uniqueness": false
@@ -5244,7 +5244,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Stun} target opponent. <(They lose a resource of their choice.)> {Slow 2} [o] them.",
+        "text": "<strong>Stun</strong> target opponent. <small><em>(They lose a resource of their choice.)</small></em> <strong>Slow 2</strong> [o] them.",
         "title": "Split Bone",
         "type_code": "skill",
         "uniqueness": false
@@ -5269,7 +5269,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "Gain {Mitigate 2}. {Attach} to yourself until the start of your next turn. After an {Attack} card resolves targeting you, return {Steward's Stance} to your hand.",
+        "text": "Gain <strong>Mitigate 2</strong>. <strong>Attach</strong> to yourself until the start of your next turn. After an <strong>Attack</strong> card resolves targeting you, return <strong>Steward's Stance</strong> to your hand.",
         "title": "Steward's Stance",
         "type_code": "skill",
         "uniqueness": false
@@ -5294,7 +5294,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "Deal 3 damage to target enemy. After {Axe Strikes} is sent to your discard, deal 2 damage to target enemy.",
+        "text": "Deal 3 damage to target enemy. After <strong>Axe Strikes</strong> is sent to your discard, deal 2 damage to target enemy.",
         "title": "Axe Strikes",
         "type_code": "skill",
         "uniqueness": false
@@ -5319,7 +5319,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Destroy} up to one target card. After {Ice Pick} is sent to your discard, deal 3 damage to target enemy.",
+        "text": "<strong>Destroy</strong> up to one target card. After <strong>Ice Pick</strong> is sent to your discard, deal 3 damage to target enemy.",
         "title": "Ice Pick",
         "type_code": "skill",
         "uniqueness": false
@@ -5344,7 +5344,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "Deal 6 damage to target enemy. After {Javelin Throw} is sent to your discard, {Disarm 1} [d] target opponent.",
+        "text": "Deal 6 damage to target enemy. After <strong>Javelin Throw</strong> is sent to your discard, <strong>Disarm 1</strong> [d] target opponent.",
         "title": "Javelin Throw",
         "type_code": "skill",
         "uniqueness": false
@@ -5369,7 +5369,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "{Attach} to target empty tile. After an enemy enters {Pitfall}, deal 6 damage to them, {Slow 1} [o] them, {Disarm 1} [d] them, and {Destroy} {Pitfall}.",
+        "text": "<strong>Attach</strong> to target empty tile. After an enemy enters <strong>Pitfall</strong>, deal 6 damage to them, <strong>Slow 1</strong> [o] them, <strong>Disarm 1</strong> [d] them, and <strong>Destroy</strong> <strong>Pitfall</strong>.",
         "title": "Pitfall",
         "type_code": "skill",
         "uniqueness": false
@@ -5394,7 +5394,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Draw a card, then discard a card. After {Recover} is sent to your discard, gain 1 [p].",
+        "text": "Draw a card, then discard a card. After <strong>Recover</strong> is sent to your discard, gain 1 [p].",
         "title": "Recover",
         "type_code": "skill",
         "uniqueness": false
@@ -5419,7 +5419,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Return target card with a {Resource} cost of two or more from your discard to your hand.",
+        "text": "Return target card with a <strong>Resource</strong> cost of two or more from your discard to your hand.",
         "title": "Retrieve",
         "type_code": "skill",
         "uniqueness": false
@@ -5444,7 +5444,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": true,
-        "text": "Choose one: - {Silence 1} [i] target opponent. - {Disarm 1} [d] target opponent. After {Sling Rock} is sent to your discard, deal 2 damage to target enemy.",
+        "text": "Choose one: - <strong>Silence 1</strong> [i] target opponent. - <strong>Disarm 1</strong> [d] target opponent. After <strong>Sling Rock</strong> is sent to your discard, deal 2 damage to target enemy.",
         "title": "Sling Rock",
         "type_code": "skill",
         "uniqueness": false
@@ -5469,7 +5469,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Attach} to target empty tile at least three tiles away from you. After you or an ally enters {Supply Cache}, heal them 8 HP and they draw two cards, then {Destroy} {Hidden Cache}.",
+        "text": "<strong>Attach</strong> to target empty tile at least three tiles away from you. After you or an ally enters <strong>Supply Cache</strong>, heal them 8 HP and they draw two cards, then <strong>Destroy</strong> <strong>Hidden Cache</strong>.",
         "title": "Supply Cache",
         "type_code": "skill",
         "uniqueness": false
@@ -5494,7 +5494,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": true,
-        "text": "{Travel} to target tile. After {Tread Lightly} is sent to your discard, {Travel} up to one tile.",
+        "text": "<strong>Travel</strong> to target tile. After <strong>Tread Lightly</strong> is sent to your discard, <strong>Travel</strong> up to one tile.",
         "title": "Tread Lightly",
         "type_code": "skill",
         "uniqueness": false
@@ -5519,7 +5519,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "{Attach} to target player. {Duration} - heal them 2 HP. After {Wild Medicine} is sent to your discard, increase the {Duration} of a card you control by one.",
+        "text": "<strong>Attach</strong> to target player. <strong>Duration</strong> - heal them 2 HP. After <strong>Wild Medicine</strong> is sent to your discard, increase the <strong>Duration</strong> of a card you control by one.",
         "title": "Wild Medicine",
         "type_code": "skill",
         "uniqueness": false
@@ -5573,7 +5573,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "{Transcend} replaces your {Second Wind}. Draw three cards and heal yourself 5 HP.",
+        "text": "<strong>Transcend</strong> replaces your <strong>Second Wind</strong>. Draw three cards and heal yourself 5 HP.",
         "title": "Transcend",
         "type_code": "identity",
         "uniqueness": false
@@ -5600,7 +5600,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "You may play an {Attack} card targeting an enemy. After that card resolves, deal 2 damage to the target and heal yourself 1 HP.",
+        "text": "You may play an <strong>Attack</strong> card targeting an enemy. After that card resolves, deal 2 damage to the target and heal yourself 1 HP.",
         "title": "Night Infusion",
         "type_code": "identity",
         "uniqueness": false
@@ -5627,7 +5627,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Deal 4 damage to target enemy. You may play a {Ability} card targeting them for 1 less {Resource}. <(Action and power costs may not be reduced to zero in this way.)>",
+        "text": "Deal 4 damage to target enemy. You may play a <strong>Ability</strong> card targeting them for 1 less <strong>Resource</strong>. <small><em>(Action and power costs may not be reduced to zero in this way.)</small></em>",
         "title": "Cursed Dagger",
         "type_code": "identity",
         "uniqueness": false
@@ -5654,7 +5654,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "You don't gain [n] at the start of your turn. All of your cards, except {Travel} cards that target a tile, gain 1 {range} [r].",
+        "text": "You don't gain [n] at the start of your turn. All of your cards, except <strong>Travel</strong> cards that target a tile, gain 1 <strong>range</strong> [r].",
         "title": "Gargantuan",
         "type_code": "identity",
         "uniqueness": false
@@ -5681,7 +5681,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "At the start of your turn, gain {Mitigate 1}. <(Mitigate takes damage before HP. A player's Mitigate lasts until the start of their next turn.)>",
+        "text": "At the start of your turn, gain <strong>Mitigate 1</strong>. <small><em>(Mitigate takes damage before HP. A player's Mitigate lasts until the start of their next turn.)</small></em>",
         "title": "Heraldic Mail",
         "type_code": "identity",
         "uniqueness": false
@@ -5708,7 +5708,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "After you {Second Wind}, gain 1 [p], then {Travel} all other characters up to one tile away from you.",
+        "text": "After you <strong>Second Wind</strong>, gain 1 [p], then <strong>Travel</strong> all other characters up to one tile away from you.",
         "title": "Winterburst",
         "type_code": "identity",
         "uniqueness": false
@@ -5735,7 +5735,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Target enemy {Reveals} a card from their hand. If a {Non-Attack} card is {Revealed} this way, gain [n].",
+        "text": "Target enemy <strong>Reveals</strong> a card from their hand. If a <strong>Non-Attack</strong> card is <strong>Revealed</strong> this way, gain [n].",
         "title": "Raven's Eye",
         "type_code": "identity",
         "uniqueness": false
@@ -5762,7 +5762,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "All of your cards, except {Travel} cards that target a tile, also draw {range} [r] from tiles with {Terrain}. Only target other characters if they're in {Terrain}.",
+        "text": "All of your cards, except <strong>Travel</strong> cards that target a tile, also draw <strong>range</strong> [r] from tiles with <strong>Terrain</strong>. Only target other characters if they're in <strong>Terrain</strong>.",
         "title": "Wild Roots",
         "type_code": "identity",
         "uniqueness": false
@@ -5789,7 +5789,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Deal 5 damage to target enemy. Increase the value of a {Control} type already affecting them by one.",
+        "text": "Deal 5 damage to target enemy. Increase the value of a <strong>Control</strong> type already affecting them by one.",
         "title": "Runic Slaughter",
         "type_code": "identity",
         "uniqueness": false
@@ -5816,7 +5816,7 @@
         "side_code": "corp",
         "silence": true,
         "slow": false,
-        "text": "Deal 4 damage to target enemy. If you have {Mitigate}, {Stun} them. <(They lose a resource of their choice.)>",
+        "text": "Deal 4 damage to target enemy. If you have <strong>Mitigate</strong>, <strong>Stun</strong> them. <small><em>(They lose a resource of their choice.)</small></em>",
         "title": "Shield Slam",
         "type_code": "identity",
         "uniqueness": false
@@ -5843,7 +5843,7 @@
         "side_code": "corp",
         "silence": false,
         "slow": false,
-        "text": "After you play {Persevere}, {Reveal} a card from your hand. Heal yourself 2 HP and discard a {Revealed} card.",
+        "text": "After you play <strong>Persevere</strong>, <strong>Reveal</strong> a card from your hand. Heal yourself 2 HP and discard a <strong>Revealed</strong> card.",
         "title": "Persevere",
         "type_code": "identity",
         "uniqueness": false
