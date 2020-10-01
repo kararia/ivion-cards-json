@@ -63,6 +63,26 @@
             "pattern": "^[0-9]{5}$",
             "type": "string"
         },
+        "col1": {
+            "oneOf": [
+                {
+                    "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "col2": {
+            "oneOf": [
+                {
+                    "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
         "deck_limit": {
             "oneOf": [
                 {

@@ -78,5 +78,149 @@
         "is_mini": false,
         "name": "Wizard",
         "side_code": "corp"
+    },
+    {
+        "code": "incarnate",
+        "color": "000000",
+        "color_xterm": 16,
+        "is_mini": false,
+        "name": "Incarnate",
+        "side_code": "corp"
+    },
+    {
+        "code": "avatar",
+        "color": "FF4500",
+        "color_xterm": 202,
+        "is_mini": false,
+        "name": "Avatar",
+        "side_code": "corp"
+    },
+    {
+        "code": "ebon_mage",
+        "color": "4169E1",
+        "color_xterm": 62,
+        "is_mini": false,
+        "name": "Ebon Mage",
+        "side_code": "corp"
+    },
+    {
+        "code": "curseblade",
+        "color": "DC143C",
+        "color_xterm": 161,
+        "is_mini": false,
+        "name": "Curseblade",
+        "side_code": "corp"
+    },
+    {
+        "code": "ancient",
+        "color": "8A2BE2",
+        "color_xterm": 92,
+        "is_mini": false,
+        "name": "Ancient",
+        "side_code": "corp"
+    },
+    {
+        "code": "jarl",
+        "color": "DC143C",
+        "color_xterm": 161,
+        "is_mini": false,
+        "name": "Jarl",
+        "side_code": "corp"
+    },
+    {
+        "code": "winterborn",
+        "color": "808080",
+        "color_xterm": 102,
+        "is_mini": false,
+        "name": "Winterborn",
+        "side_code": "corp"
+    },
+    {
+        "code": "watcher",
+        "color": "FF8C00",
+        "color_xterm": 208,
+        "is_mini": false,
+        "name": "Watcher",
+        "side_code": "corp"
+    },
+    {
+        "code": "wilder",
+        "color": "32CD32",
+        "color_xterm": 77,
+        "is_mini": false,
+        "name": "Wilder",
+        "side_code": "corp"
+    },
+    {
+        "code": "huntsman",
+        "color": "006400",
+        "color_xterm": 22,
+        "is_mini": false,
+        "name": "Huntsman",
+        "side_code": "corp"
+    },
+    {
+        "code": "steward",
+        "color": "000000",
+        "color_xterm": 16,
+        "is_mini": false,
+        "name": "Steward",
+        "side_code": "corp"
+    },
+    {
+        "code": "survivalist",
+        "color": "FF4500",
+        "color_xterm": 202,
+        "is_mini": false,
+        "name": "Survivalist",
+        "side_code": "corp"
+    },
+    {
+        "code": "cryomancer",
+        "color": "808080",
+        "color_xterm": 102,
+        "is_mini": false,
+        "name": "Cryomancer",
+        "side_code": "corp"
+    },
+    {
+        "code": "druid",
+        "color": "FF8C00",
+        "color_xterm": 208,
+        "is_mini": false,
+        "name": "Druid",
+        "side_code": "corp"
+    },
+    {
+        "code": "warrior",
+        "color": "32CD32",
+        "color_xterm": 77,
+        "is_mini": false,
+        "name": "Warrior",
+        "side_code": "corp"
+    },
+    {
+        "code": "giant",
+        "color": "006400",
+        "color_xterm": 22,
+        "is_mini": false,
+        "name": "Giant",
+        "side_code": "corp"
+    },
+    {
+        "code": "witch",
+        "color": "000000",
+        "color_xterm": 16,
+        "is_mini": false,
+        "name": "Witch",
+        "side_code": "corp"
+    },
+    {
+        "code": "manifest",
+        "color": "FF4500",
+        "color_xterm": 202,
+        "is_mini": false,
+        "name": "Manifest",
+        "side_code": "corp"
     }
 ]
